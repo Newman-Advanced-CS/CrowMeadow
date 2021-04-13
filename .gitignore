@@ -7,3 +7,5 @@ Assets/.DS_Store
 *.yaml
 UserSettings/
 .vs/
+.vs/CrowMeadow/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+*.yaml
