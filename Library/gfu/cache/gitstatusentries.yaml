@@ -13,9 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-12T19:34:10.845-04:00
+  lastUpdatedAtString: 2021-04-13T09:07:13.298-04:00
   initializedAtString: 2021-04-12T19:29:17.463-04:00
   entries:
+  - path: .gitignore
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -40,9 +46,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/SourceAssetDB
-    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/SourceAssetDB
-    projectPath: Library/SourceAssetDB
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

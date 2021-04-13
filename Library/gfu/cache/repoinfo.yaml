@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-04-12T19:34:10.688-04:00
+  lastUpdatedAtString: 2021-04-13T09:07:13.143-04:00
   initializedAtString: 2021-04-12T19:29:12.389-04:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Datoneguy246/CrowMeadow.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/Datoneguy246/CrowMeadow.git

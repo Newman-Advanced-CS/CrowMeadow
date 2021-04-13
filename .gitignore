@@ -4,3 +4,4 @@ Library/SourceAssetDB
 Library/ArtifactDB
 Assets/.DS_Store
 .DS_Store
+*.yaml
