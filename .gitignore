@@ -1,0 +1,6 @@
+
+Library/SourceAssetDB
+*.log
+Library/ArtifactDB
+Assets/.DS_Store
+.DS_Store

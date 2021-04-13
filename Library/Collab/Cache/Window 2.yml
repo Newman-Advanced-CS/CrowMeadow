@@ -1,0 +1,507 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/EffectExamples.meta
+    - Assets/EffectExamples/Blood.meta
+    - Assets/EffectExamples/Blood/Materials.meta
+    - Assets/EffectExamples/Blood/Materials/BloodPoolParticle.mat
+    - Assets/EffectExamples/Blood/Materials/BloodPoolParticle.mat.meta
+    - Assets/EffectExamples/Blood/Materials/BloodSplashParticle.mat
+    - Assets/EffectExamples/Blood/Materials/BloodSplashParticle.mat.meta
+    - Assets/EffectExamples/Blood/Materials/BloodSplatParticle.mat
+    - Assets/EffectExamples/Blood/Materials/BloodSplatParticle.mat.meta
+    - Assets/EffectExamples/Blood/Materials/BloodStreamParticle.mat
+    - Assets/EffectExamples/Blood/Materials/BloodStreamParticle.mat.meta
+    - Assets/EffectExamples/Blood/Prefabs.meta
+    - Assets/EffectExamples/Blood/Prefabs/BloodSprayEffect.prefab
+    - Assets/EffectExamples/Blood/Prefabs/BloodSprayEffect.prefab.meta
+    - Assets/EffectExamples/Blood/Prefabs/BloodStreamEffect.prefab
+    - Assets/EffectExamples/Blood/Prefabs/BloodStreamEffect.prefab.meta
+    - Assets/EffectExamples/Blood/Textures.meta
+    - Assets/EffectExamples/Blood/Textures/BloodDropAlbedo.tif
+    - Assets/EffectExamples/Blood/Textures/BloodDropAlbedo.tif.meta
+    - Assets/EffectExamples/Blood/Textures/BloodDropNormals.tif
+    - Assets/EffectExamples/Blood/Textures/BloodDropNormals.tif.meta
+    - Assets/EffectExamples/Blood/Textures/BloodPoolAlbedo.tif
+    - Assets/EffectExamples/Blood/Textures/BloodPoolAlbedo.tif.meta
+    - Assets/EffectExamples/Blood/Textures/BloodPoolNormals.tif
+    - Assets/EffectExamples/Blood/Textures/BloodPoolNormals.tif.meta
+    - Assets/EffectExamples/Blood/Textures/BloodSprayNormals.tif
+    - Assets/EffectExamples/Blood/Textures/BloodSprayNormals.tif.meta
+    - Assets/EffectExamples/Blood/Textures/BloodStreamAlbedo.tif
+    - Assets/EffectExamples/Blood/Textures/BloodStreamAlbedo.tif.meta
+    - Assets/EffectExamples/Editor.meta
+    - Assets/EffectExamples/Editor/PackageManagerAssembly.meta
+    - Assets/EffectExamples/Editor/PackageManagerAssembly/PackageImportList.txt
+    - Assets/EffectExamples/Editor/PackageManagerAssembly/PackageImportList.txt.meta
+    - Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll
+    - Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll.meta
+    - Assets/EffectExamples/FireExplosionEffects.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/DebrisParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/DebrisParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/FlameParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/FlameParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/IgnitionFlameParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/IgnitionFlameParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/PlasmaExplosionParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/PlasmaExplosionParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/PlasmaFireParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/PlasmaFireParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/ShockWaveParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/ShockWaveParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/SmokeDarkParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/SmokeDarkParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Materials/SmokeLightParticle.mat
+    - Assets/EffectExamples/FireExplosionEffects/Materials/SmokeLightParticle.mat.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/BigExplosionEffect.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/BigExplosionEffect.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/DrippingFlames.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/DrippingFlames.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/FlameThrowerEffect.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/FlameThrowerEffect.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesEffects.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesEffects.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesParticleEffect.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesParticleEffect.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/PlasmaExplosionEffect.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/PlasmaExplosionEffect.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/RibbonSmoke.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/RibbonSmoke.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/SmallExplosionEffect.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/SmallExplosionEffect.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/SmokeEffect.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/SmokeEffect.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/TorchEffect.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/TorchEffect.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/WallFlames.prefab
+    - Assets/EffectExamples/FireExplosionEffects/Prefabs/WallFlames.prefab.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures/DebrisParticleSheet.png
+    - Assets/EffectExamples/FireExplosionEffects/Textures/DebrisParticleSheet.png.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures/FlameParticleSheet.tif
+    - Assets/EffectExamples/FireExplosionEffects/Textures/FlameParticleSheet.tif.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures/FlameRoundGreyParticleSheet.tif
+    - Assets/EffectExamples/FireExplosionEffects/Textures/FlameRoundGreyParticleSheet.tif.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures/FlameRoundParticleSheet.tif
+    - Assets/EffectExamples/FireExplosionEffects/Textures/FlameRoundParticleSheet.tif.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures/LightningParticle.tif
+    - Assets/EffectExamples/FireExplosionEffects/Textures/LightningParticle.tif.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures/RoundSoftParticle.tif
+    - Assets/EffectExamples/FireExplosionEffects/Textures/RoundSoftParticle.tif.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuff02ParticleSheet.tif
+    - Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuff02ParticleSheet.tif.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffNormalSheet.tif
+    - Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffNormalSheet.tif.meta
+    - Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheet.png
+    - Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheet.png.meta
+    - Assets/EffectExamples/Misc Effects.meta
+    - Assets/EffectExamples/Misc Effects/Materials.meta
+    - Assets/EffectExamples/Misc Effects/Materials/DustMoteParticle.mat
+    - Assets/EffectExamples/Misc Effects/Materials/DustMoteParticle.mat.meta
+    - Assets/EffectExamples/Misc Effects/Materials/SandSwirlsParticle.mat
+    - Assets/EffectExamples/Misc Effects/Materials/SandSwirlsParticle.mat.meta
+    - Assets/EffectExamples/Misc Effects/Materials/Spark2Particle.mat
+    - Assets/EffectExamples/Misc Effects/Materials/Spark2Particle.mat.meta
+    - Assets/EffectExamples/Misc Effects/Materials/SparkParticle.mat
+    - Assets/EffectExamples/Misc Effects/Materials/SparkParticle.mat.meta
+    - Assets/EffectExamples/Misc Effects/Prefabs.meta
+    - Assets/EffectExamples/Misc Effects/Prefabs/DustMotesEffect.prefab
+    - Assets/EffectExamples/Misc Effects/Prefabs/DustMotesEffect.prefab.meta
+    - Assets/EffectExamples/Misc Effects/Prefabs/ElectricalSparksEffect.prefab
+    - Assets/EffectExamples/Misc Effects/Prefabs/ElectricalSparksEffect.prefab.meta
+    - Assets/EffectExamples/Misc Effects/Prefabs/SandSwirlsEffect.prefab
+    - Assets/EffectExamples/Misc Effects/Prefabs/SandSwirlsEffect.prefab.meta
+    - Assets/EffectExamples/Misc Effects/Prefabs/SparksEffect.prefab
+    - Assets/EffectExamples/Misc Effects/Prefabs/SparksEffect.prefab.meta
+    - Assets/EffectExamples/Misc Effects/Textures.meta
+    - Assets/EffectExamples/Misc Effects/Textures/DustMoteParticle.png
+    - Assets/EffectExamples/Misc Effects/Textures/DustMoteParticle.png.meta
+    - Assets/EffectExamples/Misc Effects/Textures/SparkParticle.tif
+    - Assets/EffectExamples/Misc Effects/Textures/SparkParticle.tif.meta
+    - Assets/EffectExamples/Shared.meta
+    - Assets/EffectExamples/Shared/Animation.meta
+    - Assets/EffectExamples/Shared/Animation/Animations.meta
+    - Assets/EffectExamples/Shared/Animation/Animations/GunFire.anim
+    - Assets/EffectExamples/Shared/Animation/Animations/GunFire.anim.meta
+    - Assets/EffectExamples/Shared/Animation/Animations/GunIdle.anim
+    - Assets/EffectExamples/Shared/Animation/Animations/GunIdle.anim.meta
+    - Assets/EffectExamples/Shared/Animation/Controllers.meta
+    - Assets/EffectExamples/Shared/Animation/Controllers/Gun.controller
+    - Assets/EffectExamples/Shared/Animation/Controllers/Gun.controller.meta
+    - Assets/EffectExamples/Shared/Fonts.meta
+    - Assets/EffectExamples/Shared/Fonts/Roboto-Thin.ttf
+    - Assets/EffectExamples/Shared/Fonts/Roboto-Thin.ttf.meta
+    - Assets/EffectExamples/Shared/Fonts/RobotoCondensed-Bold.ttf
+    - Assets/EffectExamples/Shared/Fonts/RobotoCondensed-Bold.ttf.meta
+    - Assets/EffectExamples/Shared/Materials.meta
+    - Assets/EffectExamples/Shared/Materials/Background.mat
+    - Assets/EffectExamples/Shared/Materials/Background.mat.meta
+    - Assets/EffectExamples/Shared/Materials/DarkDefault.mat
+    - Assets/EffectExamples/Shared/Materials/DarkDefault.mat.meta
+    - Assets/EffectExamples/Shared/Materials/FleshSurface.mat
+    - Assets/EffectExamples/Shared/Materials/FleshSurface.mat.meta
+    - Assets/EffectExamples/Shared/Materials/MetalSurface.mat
+    - Assets/EffectExamples/Shared/Materials/MetalSurface.mat.meta
+    - Assets/EffectExamples/Shared/Materials/SandSurface.mat
+    - Assets/EffectExamples/Shared/Materials/SandSurface.mat.meta
+    - Assets/EffectExamples/Shared/Materials/Skybox.mat
+    - Assets/EffectExamples/Shared/Materials/Skybox.mat.meta
+    - Assets/EffectExamples/Shared/Materials/StoneSurface.mat
+    - Assets/EffectExamples/Shared/Materials/StoneSurface.mat.meta
+    - Assets/EffectExamples/Shared/Materials/WoodSurface.mat
+    - Assets/EffectExamples/Shared/Materials/WoodSurface.mat.meta
+    - Assets/EffectExamples/Shared/Models.meta
+    - Assets/EffectExamples/Shared/Models/BackGround.FBX
+    - Assets/EffectExamples/Shared/Models/BackGround.FBX.meta
+    - Assets/EffectExamples/Shared/Models/FPSWeapon.fbx
+    - Assets/EffectExamples/Shared/Models/FPSWeapon.fbx.meta
+    - Assets/EffectExamples/Shared/Models/LowMan.fbx
+    - Assets/EffectExamples/Shared/Models/LowMan.fbx.meta
+    - Assets/EffectExamples/Shared/Models/Materials.meta
+    - Assets/EffectExamples/Shared/Models/Materials/MazeLowMan.mat
+    - Assets/EffectExamples/Shared/Models/Materials/MazeLowMan.mat.meta
+    - Assets/EffectExamples/Shared/Models/Materials/No Name.mat
+    - Assets/EffectExamples/Shared/Models/Materials/No Name.mat.meta
+    - Assets/EffectExamples/Shared/Models/Materials/ShooterFPSWeapon.mat
+    - Assets/EffectExamples/Shared/Models/Materials/ShooterFPSWeapon.mat.meta
+    - Assets/EffectExamples/Shared/PhysicsMaterials.meta
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Character.physicMaterial
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Character.physicMaterial.meta
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Meat.physicMaterial
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Meat.physicMaterial.meta
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Metal.physicMaterial
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Metal.physicMaterial.meta
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Sand.physicMaterial
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Sand.physicMaterial.meta
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Stone.physicMaterial
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Stone.physicMaterial.meta
+    - Assets/EffectExamples/Shared/PhysicsMaterials/WaterFilled.physicMaterial
+    - Assets/EffectExamples/Shared/PhysicsMaterials/WaterFilled.physicMaterial.meta
+    - Assets/EffectExamples/Shared/PhysicsMaterials/WaterFilledExtinguish.physicMaterial
+    - Assets/EffectExamples/Shared/PhysicsMaterials/WaterFilledExtinguish.physicMaterial.meta
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Wood.physicMaterial
+    - Assets/EffectExamples/Shared/PhysicsMaterials/Wood.physicMaterial.meta
+    - Assets/EffectExamples/Shared/Prefabs.meta
+    - Assets/EffectExamples/Shared/Prefabs/Extinguish.prefab
+    - Assets/EffectExamples/Shared/Prefabs/Extinguish.prefab.meta
+    - Assets/EffectExamples/Shared/Prefabs/Flesh.prefab
+    - Assets/EffectExamples/Shared/Prefabs/Flesh.prefab.meta
+    - Assets/EffectExamples/Shared/Prefabs/Metal.prefab
+    - Assets/EffectExamples/Shared/Prefabs/Metal.prefab.meta
+    - Assets/EffectExamples/Shared/Prefabs/ParticlesLight.prefab
+    - Assets/EffectExamples/Shared/Prefabs/ParticlesLight.prefab.meta
+    - Assets/EffectExamples/Shared/Prefabs/Sand.prefab
+    - Assets/EffectExamples/Shared/Prefabs/Sand.prefab.meta
+    - Assets/EffectExamples/Shared/Prefabs/Stone.prefab
+    - Assets/EffectExamples/Shared/Prefabs/Stone.prefab.meta
+    - Assets/EffectExamples/Shared/Prefabs/WaterFilled.prefab
+    - Assets/EffectExamples/Shared/Prefabs/WaterFilled.prefab.meta
+    - Assets/EffectExamples/Shared/Prefabs/Wood.prefab
+    - Assets/EffectExamples/Shared/Prefabs/Wood.prefab.meta
+    - Assets/EffectExamples/Shared/Scripts.meta
+    - Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs
+    - Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs.meta
+    - Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs
+    - Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs.meta
+    - Assets/EffectExamples/Shared/Scripts/GunAim.cs
+    - Assets/EffectExamples/Shared/Scripts/GunAim.cs.meta
+    - Assets/EffectExamples/Shared/Scripts/GunShoot.cs
+    - Assets/EffectExamples/Shared/Scripts/GunShoot.cs.meta
+    - Assets/EffectExamples/Shared/Scripts/ParticleCollision.cs
+    - Assets/EffectExamples/Shared/Scripts/ParticleCollision.cs.meta
+    - Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs
+    - Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs.meta
+    - Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs
+    - Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs.meta
+    - Assets/EffectExamples/Shared/Shaders.meta
+    - Assets/EffectExamples/Shared/Shaders/SurfaceShader_VC.shader
+    - Assets/EffectExamples/Shared/Shaders/SurfaceShader_VC.shader.meta
+    - Assets/EffectExamples/Shared/Sprites.meta
+    - Assets/EffectExamples/Shared/Sprites/UnityLogoSprite.tif
+    - Assets/EffectExamples/Shared/Sprites/UnityLogoSprite.tif.meta
+    - Assets/EffectExamples/Shared/Textures.meta
+    - Assets/EffectExamples/Shared/Textures/BackgroundAlbedo.tif
+    - Assets/EffectExamples/Shared/Textures/BackgroundAlbedo.tif.meta
+    - Assets/EffectExamples/Shared/Textures/CloudsAlpha.tif
+    - Assets/EffectExamples/Shared/Textures/CloudsAlpha.tif.meta
+    - Assets/EffectExamples/Shared/Textures/CloudsNormals.tif
+    - Assets/EffectExamples/Shared/Textures/CloudsNormals.tif.meta
+    - Assets/EffectExamples/Shared/Textures/CloudsOcclusion.tif
+    - Assets/EffectExamples/Shared/Textures/CloudsOcclusion.tif.meta
+    - Assets/EffectExamples/Shared/Textures/DustPuffSmallParticleSheet.png
+    - Assets/EffectExamples/Shared/Textures/DustPuffSmallParticleSheet.png.meta
+    - Assets/EffectExamples/Shared/Textures/StoneAlbedo.tif
+    - Assets/EffectExamples/Shared/Textures/StoneAlbedo.tif.meta
+    - Assets/EffectExamples/Shared/Textures/StoneNormals.tif
+    - Assets/EffectExamples/Shared/Textures/StoneNormals.tif.meta
+    - Assets/EffectExamples/Shared/Textures/WoodAlbedo.tif
+    - Assets/EffectExamples/Shared/Textures/WoodAlbedo.tif.meta
+    - Assets/EffectExamples/Shared/Textures/WoodNormals.tif
+    - Assets/EffectExamples/Shared/Textures/WoodNormals.tif.meta
+    - Assets/EffectExamples/Shared/Textures/fleshNormals.tif
+    - Assets/EffectExamples/Shared/Textures/fleshNormals.tif.meta
+    - Assets/EffectExamples/Shared/Textures/wood_tiled_02_a.tif
+    - Assets/EffectExamples/Shared/Textures/wood_tiled_02_a.tif.meta
+    - Assets/EffectExamples/Shared/Textures/wood_tiled_02_n.tif
+    - Assets/EffectExamples/Shared/Textures/wood_tiled_02_n.tif.meta
+    - Assets/EffectExamples/Shared/Textures/wood_tiled_02_o.tif
+    - Assets/EffectExamples/Shared/Textures/wood_tiled_02_o.tif.meta
+    - Assets/EffectExamples/SmokeTrail.mat
+    - Assets/EffectExamples/SmokeTrail.mat.meta
+    - Assets/EffectExamples/TutorialInfo.meta
+    - Assets/EffectExamples/TutorialInfo/Icons.meta
+    - Assets/EffectExamples/TutorialInfo/Icons/Help_Icon.png
+    - Assets/EffectExamples/TutorialInfo/Icons/Help_Icon.png.meta
+    - Assets/EffectExamples/TutorialInfo/Icons/ParticlePack5x_Icon.png
+    - Assets/EffectExamples/TutorialInfo/Icons/ParticlePack5x_Icon.png.meta
+    - Assets/EffectExamples/TutorialInfo/Scripts.meta
+    - Assets/EffectExamples/TutorialInfo/Scripts/Editor.meta
+    - Assets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+    - Assets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+    - Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs
+    - Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs.meta
+    - Assets/EffectExamples/WaterEffects.meta
+    - Assets/EffectExamples/WaterEffects/Materials.meta
+    - Assets/EffectExamples/WaterEffects/Materials/ImpactSplashParticle.mat
+    - Assets/EffectExamples/WaterEffects/Materials/ImpactSplashParticle.mat.meta
+    - Assets/EffectExamples/WaterEffects/Materials/StormCloudParticle.mat
+    - Assets/EffectExamples/WaterEffects/Materials/StormCloudParticle.mat.meta
+    - Assets/EffectExamples/WaterEffects/Materials/WaterDropParticle.mat
+    - Assets/EffectExamples/WaterEffects/Materials/WaterDropParticle.mat.meta
+    - Assets/EffectExamples/WaterEffects/Materials/WaterMistParticle.mat
+    - Assets/EffectExamples/WaterEffects/Materials/WaterMistParticle.mat.meta
+    - Assets/EffectExamples/WaterEffects/Materials/WaterRipplesParticle.mat
+    - Assets/EffectExamples/WaterEffects/Materials/WaterRipplesParticle.mat.meta
+    - Assets/EffectExamples/WaterEffects/Materials/WaterTrailParticle.mat
+    - Assets/EffectExamples/WaterEffects/Materials/WaterTrailParticle.mat.meta
+    - Assets/EffectExamples/WaterEffects/Models.meta
+    - Assets/EffectExamples/WaterEffects/Models/ImpactSplash.FBX
+    - Assets/EffectExamples/WaterEffects/Models/ImpactSplash.FBX.meta
+    - Assets/EffectExamples/WaterEffects/Models/WaterFaucet.FBX
+    - Assets/EffectExamples/WaterEffects/Models/WaterFaucet.FBX.meta
+    - Assets/EffectExamples/WaterEffects/Prefabs.meta
+    - Assets/EffectExamples/WaterEffects/Prefabs/RainEffect.prefab
+    - Assets/EffectExamples/WaterEffects/Prefabs/RainEffect.prefab.meta
+    - Assets/EffectExamples/WaterEffects/Prefabs/StormCloudEffect.prefab
+    - Assets/EffectExamples/WaterEffects/Prefabs/StormCloudEffect.prefab.meta
+    - Assets/EffectExamples/WaterEffects/Prefabs/WaterDripEffect.prefab
+    - Assets/EffectExamples/WaterEffects/Prefabs/WaterDripEffect.prefab.meta
+    - Assets/EffectExamples/WaterEffects/Prefabs/WaterfallEffect.prefab
+    - Assets/EffectExamples/WaterEffects/Prefabs/WaterfallEffect.prefab.meta
+    - Assets/EffectExamples/WaterEffects/Prefabs/WaterfallSmallEffect.prefab
+    - Assets/EffectExamples/WaterEffects/Prefabs/WaterfallSmallEffect.prefab.meta
+    - Assets/EffectExamples/WaterEffects/Textures.meta
+    - Assets/EffectExamples/WaterEffects/Textures/CloudsParticleNormals.tif
+    - Assets/EffectExamples/WaterEffects/Textures/CloudsParticleNormals.tif.meta
+    - Assets/EffectExamples/WaterEffects/Textures/CloudsParticleSheet.tif
+    - Assets/EffectExamples/WaterEffects/Textures/CloudsParticleSheet.tif.meta
+    - Assets/EffectExamples/WaterEffects/Textures/ImpactSplashParticle.tif
+    - Assets/EffectExamples/WaterEffects/Textures/ImpactSplashParticle.tif.meta
+    - Assets/EffectExamples/WaterEffects/Textures/WaterDropParticle.tif
+    - Assets/EffectExamples/WaterEffects/Textures/WaterDropParticle.tif.meta
+    - Assets/EffectExamples/WaterEffects/Textures/WaterMistParticle.tif
+    - Assets/EffectExamples/WaterEffects/Textures/WaterMistParticle.tif.meta
+    - Assets/EffectExamples/WaterEffects/Textures/WaterRipplesParticle.tif
+    - Assets/EffectExamples/WaterEffects/Textures/WaterRipplesParticle.tif.meta
+    - Assets/EffectExamples/WaterEffects/Textures/WaterTrailParticle.tif
+    - Assets/EffectExamples/WaterEffects/Textures/WaterTrailParticle.tif.meta
+    - Assets/EffectExamples/WeaponEffects.meta
+    - Assets/EffectExamples/WeaponEffects/Materials.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/BulletDecalMetal.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/BulletDecalMetal.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/BulletDecalStone.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/BulletDecalStone.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/BulletDecalWood.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/BulletDecalWood.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/BulletFleshDecal.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/BulletFleshDecal.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/DustPuffParticle.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/DustPuffParticle.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/MuzzleFlashParticle.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/MuzzleFlashParticle.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/Projectile.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/Projectile.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/RocketTrailParticle.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/RocketTrailParticle.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/ShallCasing.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/ShallCasing.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/TinyStonesParticle.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/TinyStonesParticle.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/WaterStreamParticle.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/WaterStreamParticle.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Materials/WoodSplintersParticle.mat
+    - Assets/EffectExamples/WeaponEffects/Materials/WoodSplintersParticle.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Models.meta
+    - Assets/EffectExamples/WeaponEffects/Models/Materials.meta
+    - Assets/EffectExamples/WeaponEffects/Models/Materials/No Name.mat
+    - Assets/EffectExamples/WeaponEffects/Models/Materials/No Name.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Models/RocketWarhead.FBX
+    - Assets/EffectExamples/WeaponEffects/Models/RocketWarhead.FBX.meta
+    - Assets/EffectExamples/WeaponEffects/Models/ShellCasing.FBX
+    - Assets/EffectExamples/WeaponEffects/Models/ShellCasing.FBX.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactFleshBigEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactFleshBigEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactFleshSmallEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactFleshSmallEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactMetalEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactMetalEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactSandEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactSandEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactStoneEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactStoneEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactWaterContainerEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactWaterContainerEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactWaterContainerExtinguisherEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactWaterContainerExtinguisherEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactWoodEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/BulletImpactWoodEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/CartridgeEjectEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/CartridgeEjectEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/MuzzleFlashEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/MuzzleFlashEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Prefabs/RocketTrailEffect.prefab
+    - Assets/EffectExamples/WeaponEffects/Prefabs/RocketTrailEffect.prefab.meta
+    - Assets/EffectExamples/WeaponEffects/Textures.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodMist.mat
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodMist.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodSplat2.mat
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodSplat2.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodSprayAlbedo.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodSprayAlbedo.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodStreak.mat
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodStreak.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodStreakAlbedo.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodStreakAlbedo.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodStreakNormals.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/BloodStreakNormals.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleMetalThroughAlbedo.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleMetalThroughAlbedo.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleMetalThroughNormals.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleMetalThroughNormals.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleRockAlbedo.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleRockAlbedo.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleRockHeight.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleRockHeight.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleRockNormals.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/BulletHoleRockNormals.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/FlashParticle.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/FlashParticle.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleAlbedo.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleAlbedo.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleHeight.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleHeight.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleNormals.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleNormals.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/StreamNormals.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/StreamNormals.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/TinyStonesNormalsSheet.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/TinyStonesNormalsSheet.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/TinyStonesParticleSheet.png
+    - Assets/EffectExamples/WeaponEffects/Textures/TinyStonesParticleSheet.png.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/WaterDropsParticle.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/WaterDropsParticle.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/WaterSplashParticle.mat
+    - Assets/EffectExamples/WeaponEffects/Textures/WaterSplashParticle.mat.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/WoodBulletHoleAlbedo.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/WoodBulletHoleAlbedo.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/WoodBulletHoleDepth.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/WoodBulletHoleDepth.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/WoodBulletHoleNormals.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/WoodBulletHoleNormals.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/woodSplintersAlbedo.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/woodSplintersAlbedo.tif.meta
+    - Assets/EffectExamples/WeaponEffects/Textures/woodSplintersNormals.tif
+    - Assets/EffectExamples/WeaponEffects/Textures/woodSplintersNormals.tif.meta
+    - Assets/Prefabs/Bullet.prefab
+    - Assets/Prefabs/Impact.prefab
+    - Assets/Prefabs/Impact.prefab.meta
+    - Assets/Scenes/Main.meta
+    - Assets/Scenes/Main.unity
+    - Assets/Scenes/Main.unity.meta
+    - Assets/Scenes/Main/LightingData.asset
+    - Assets/Scenes/Main/LightingData.asset.meta
+    - Assets/Scenes/Main/Lightmap-0_comp_dir.png
+    - Assets/Scenes/Main/Lightmap-0_comp_dir.png.meta
+    - Assets/Scenes/Main/Lightmap-1_comp_dir.png
+    - Assets/Scenes/Main/Lightmap-1_comp_dir.png.meta
+    - Assets/Scenes/Main/Lightmap-1_comp_light.exr
+    - Assets/Scenes/Main/Lightmap-1_comp_light.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-0.exr
+    - Assets/Scenes/Main/ReflectionProbe-0.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-1.exr
+    - Assets/Scenes/Main/ReflectionProbe-1.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-2.exr
+    - Assets/Scenes/Main/ReflectionProbe-2.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-3.exr
+    - Assets/Scenes/Main/ReflectionProbe-3.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-4.exr
+    - Assets/Scenes/Main/ReflectionProbe-4.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-5.exr
+    - Assets/Scenes/Main/ReflectionProbe-5.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-6.exr
+    - Assets/Scenes/Main/ReflectionProbe-6.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-7.exr
+    - Assets/Scenes/Main/ReflectionProbe-7.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-8.exr
+    - Assets/Scenes/Main/ReflectionProbe-8.exr.meta
+    - Assets/Scenes/Main/ReflectionProbe-9.exr
+    - Assets/Scenes/Main/ReflectionProbe-9.exr.meta
+    - Assets/Scenes/Profiles.meta
+    - Assets/Scenes/Profiles/DefaultProfile.asset
+    - Assets/Scenes/Profiles/DefaultProfile.asset.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scripts/PlayerGun.cs
+    - Assets/TextMesh Pro.meta
+    - Assets/TextMesh Pro/Documentation 2.meta
+    - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Resources 2.meta
+    - Assets/TextMesh Pro/Resources.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials 2.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters 2.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters 2.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters 2.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters 2.txt.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets 2.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets 2.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings 2.asset
+    - Assets/TextMesh Pro/Resources/TMP Settings 2.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+    - Assets/TextMesh Pro/Sprites 2.meta
+    - Assets/TextMesh Pro/Sprites.meta
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
