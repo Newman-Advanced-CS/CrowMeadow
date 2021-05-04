@@ -1,59 +1,29 @@
 using UnityEngine;
-using System.Collections;
 using Hertzole.GoldPlayer;
 
-public class PlayerGun : MonoBehaviour
+public class PlayerGun : GunObject
 {
-    [Header("Gun Requirements")]
-    public Transform shootingPos;
-    public GameObject bulletPrefab;
-    public GameObject muzzleFlash;
     public Animator anim;
 
-    [Header("Gun Settings")]
-    public Gun gun;
     [HideInInspector]
-    public float accuracy;
-
-    // Private vars
-    private float timeAtLastShot = 0;
-    private float baseRecoil;
-    private float currentRecoil;
-
+    public float baseRecoil;
     [HideInInspector]
-    public bool atSights;
-    private int ammoInClip;
-    private int ammoTotal;
+    public float currentRecoil;
 
-    [HideInInspector]
-    public bool canAimSights = true;
-
-    [HideInInspector]
-    public bool isReloading = false;
-
-    private void Awake()
+    public override void Awake()
     {
+        base.Awake();
+
         baseRecoil = gun.baseRecoilAmount;
         currentRecoil = baseRecoil;
-
-        // Set up ammo count
-        ammoInClip = gun.ammoPerMagazine;
-        ammoTotal = ammoInClip * 10;
     }
 
     public void Update()
     {
-        if(ShootInput())
+        if (ShootInput())
         {
-            // Calculate the amount of time that has passed
-            float timeSinceLastShot = Time.time - timeAtLastShot;
-            if(timeSinceLastShot >= gun.shootingInterval && ammoInClip > 0 && !isReloading)
-            {
-                timeAtLastShot = Time.time;
-
-                // Shoot
-                Shoot();
-            }
+            // Shoot
+            Shoot();
         }
         else
         {
@@ -70,7 +40,7 @@ public class PlayerGun : MonoBehaviour
         }
 
         // Do aiming modes
-        if(canAimSights)
+        if (canAimSights)
         {
             AimModes();
         }
@@ -86,12 +56,17 @@ public class PlayerGun : MonoBehaviour
         }
 
         // Point at whatever is ahead
-        if(!isReloading)
+        if (!isReloading)
         {
-            if(!atSights)
+            if (!atSights)
             {
                 RaycastHit hit;
-                if (Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit))
+
+                // Layer mask the raycast
+                int layerMask = 1 << 9;
+                layerMask = ~layerMask;
+
+                if (Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit, 10, layerMask))
                 {
                     // Very strange look at script 
                     Quaternion OriginalRot = transform.rotation;
@@ -105,6 +80,26 @@ public class PlayerGun : MonoBehaviour
             {
                 transform.localEulerAngles = Vector3.zero;
             }
+        }
+    }
+
+    void UpdateStats(PlayerStats statManager)
+    {
+        statManager.gunEquiped = gun.GunName;
+        statManager.ammoInClip = ammoInClip;
+        statManager.ammoInTotal = ammoTotal;
+    }
+
+    // Check if the player is shooting
+    bool ShootInput()
+    {
+        if (gun.constantFire)
+        {
+            return Input.GetMouseButton(0);
+        }
+        else
+        {
+            return Input.GetMouseButtonDown(0);
         }
     }
 
@@ -133,78 +128,18 @@ public class PlayerGun : MonoBehaviour
         }
     }
 
-    // Check if the player is shooting
-    bool ShootInput()
+    public override void Shoot()
     {
-        if(gun.constantFire)
+        if(CanShoot())
         {
-            return Input.GetMouseButton(0);
-        }
-        else
-        {
-            return Input.GetMouseButtonDown(0);
-        }
-    }
+            base.Shoot();
 
-    void Shoot()
-    {
-        // Play sound
-        AudioManager.Play(gun.shotClip, 1, 1, false);
+            // Recoil
+            FindObjectOfType<GoldPlayerController>().Camera.ApplyRecoil(currentRecoil, 0.6f);
+            currentRecoil += 1.75f;
 
-        // Calculate offset for accuracy
-        float xOffset = (100 - accuracy) * Random.Range(-0.05f, 0.05f);
-        float yOffset = (100 - accuracy) * Random.Range(-0.05f, 0.05f);
-        Vector3 offset = new Vector3(xOffset, yOffset, 0);
-        
-        // Create bullet & apply offset
-        GameObject bullet = Instantiate(bulletPrefab, shootingPos.position, shootingPos.rotation);
-        bullet.transform.eulerAngles += offset;
-        bullet.GetComponent<Bullet>().damage = gun.damage;
-
-        // Recoil
-        FindObjectOfType<GoldPlayerController>().Camera.ApplyRecoil(currentRecoil, 0.6f);
-        currentRecoil += 1.75f;
-
-        // Max recoil cut off
-        if (currentRecoil > 90f) { currentRecoil = 90;  }
-
-        // Subtract ammo
-        ammoInClip--;
-
-        // Muzzle Flash
-        GameObject flash = Instantiate(muzzleFlash, shootingPos.position, shootingPos.rotation);
-        flash.transform.parent = Camera.main.transform.parent;
-        flash.GetComponent<ParticleSystem>().Play();
-    }
-
-    void UpdateStats(PlayerStats statManager)
-    {
-        statManager.gunEquiped = gun.GunName;
-        statManager.ammoInClip = ammoInClip;
-        statManager.ammoInTotal = ammoTotal;
-    }
-
-    IEnumerator Reload()
-    {
-        atSights = false;
-        AudioManager.Play("Reload", 1, 1, false);
-
-        isReloading = true;
-        yield return new WaitForSeconds(2.5f);
-        isReloading = false;
-
-        // Update ammo count
-        int realAmmoTotal = ammoTotal + ammoInClip;
-        int ammoNeeded = gun.ammoPerMagazine - ammoInClip;
-        if(ammoNeeded > realAmmoTotal)
-        {
-            ammoInClip = realAmmoTotal;
-            ammoTotal = 0;
-        }
-        else
-        {
-            ammoInClip = gun.ammoPerMagazine;
-            ammoTotal -= ammoNeeded;
+            // Max recoil cut off
+            if (currentRecoil > 30f) { currentRecoil = 30; }
         }
     }
 }

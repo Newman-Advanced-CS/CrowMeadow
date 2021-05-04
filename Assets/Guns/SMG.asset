@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2838eca0e72224c4284dd53a111759cb, type: 3}
+  m_Name: SMG
+  m_EditorClassIdentifier: 
+  GunName: SMG
+  shootingInterval: 0.03
+  constantFire: 1
+  shotClip: SMGShot
+  accuracyAtHip: 65
+  accuracyAtSights: 80
+  ammoPerMagazine: 64
+  baseRecoilAmount: 0.02
+  damage: 5

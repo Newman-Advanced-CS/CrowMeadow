@@ -1,0 +1,2818 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-04-15T08:33:44.642-04:00
+  initializedAtString: 2021-04-15T08:33:42.843-04:00
+  entries:
+  - path: .DS_Store
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .gitattributes
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/.gitattributes
+    projectPath: .gitattributes
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: .gitignore
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: .vs/CrowMeadow/xs/project-cache/Assembly-CSharp-Debug.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/.vs/CrowMeadow/xs/project-cache/Assembly-CSharp-Debug.json
+    projectPath: .vs/CrowMeadow/xs/project-cache/Assembly-CSharp-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/CrowMeadow/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/.vs/CrowMeadow/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+    projectPath: .vs/CrowMeadow/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/CrowMeadow/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/.vs/CrowMeadow/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+    projectPath: .vs/CrowMeadow/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/CrowMeadow/xs/UserPrefs.xml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/.vs/CrowMeadow/xs/UserPrefs.xml
+    projectPath: .vs/CrowMeadow/xs/UserPrefs.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assembly-CSharp.csproj
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/.DS_Store
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Audio/Pickup.mp3
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Audio/Pickup.mp3
+    projectPath: Assets/Audio/Pickup.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Audio/Pickup.mp3.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Audio/Pickup.mp3.meta
+    projectPath: Assets/Audio/Pickup.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Guns/PlaceholderPistol.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Guns/PlaceholderPistol.asset
+    projectPath: Assets/Guns/PlaceholderPistol.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Guns/PlaceholderRifle.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Guns/PlaceholderRifle.asset
+    projectPath: Assets/Guns/PlaceholderRifle.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Guns/SMG.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Guns/SMG.asset
+    projectPath: Assets/Guns/SMG.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Guns/SMG.asset.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Guns/SMG.asset.meta
+    projectPath: Assets/Guns/SMG.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/FirstMap.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap.meta
+    projectPath: Assets/MapData/FirstMap.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/FirstMap.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap.asset
+    projectPath: Assets/MapData/FirstMap.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/MapData/FirstMap.asset.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap.asset.meta
+    projectPath: Assets/MapData/FirstMap.asset.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/MapData/FirstMap/FirstMap.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap/FirstMap.asset
+    projectPath: Assets/MapData/FirstMap/FirstMap.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/FirstMap/FirstMap.asset.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap/FirstMap.asset.meta
+    projectPath: Assets/MapData/FirstMap/FirstMap.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/FirstMap/FirstMap.renderTexture
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap/FirstMap.renderTexture
+    projectPath: Assets/MapData/FirstMap/FirstMap.renderTexture
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/FirstMap/FirstMap.renderTexture.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap/FirstMap.renderTexture.meta
+    projectPath: Assets/MapData/FirstMap/FirstMap.renderTexture.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/FirstMap/Image.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap/Image.png
+    projectPath: Assets/MapData/FirstMap/Image.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/FirstMap/Image.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap/Image.png.meta
+    projectPath: Assets/MapData/FirstMap/Image.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/FirstMap/TwoIslands.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap/TwoIslands.asset
+    projectPath: Assets/MapData/FirstMap/TwoIslands.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/FirstMap/TwoIslands.asset.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/FirstMap/TwoIslands.asset.meta
+    projectPath: Assets/MapData/FirstMap/TwoIslands.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/TestMap.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/TestMap.asset
+    projectPath: Assets/MapData/TestMap.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MapData/TestMap.asset.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/MapData/TestMap.asset.meta
+    projectPath: Assets/MapData/TestMap.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials/.DS_Store
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Materials/.DS_Store
+    projectPath: Assets/Materials/.DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials/Flag.mat
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Materials/Flag.mat
+    projectPath: Assets/Materials/Flag.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials/Flag.mat.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Materials/Flag.mat.meta
+    projectPath: Assets/Materials/Flag.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials/PlayerIndicator.mat
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Materials/PlayerIndicator.mat
+    projectPath: Assets/Materials/PlayerIndicator.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials/PlayerIndicator.mat.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Materials/PlayerIndicator.mat.meta
+    projectPath: Assets/Materials/PlayerIndicator.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials/Wood.mat
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Materials/Wood.mat
+    projectPath: Assets/Materials/Wood.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials/Wood.mat.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Materials/Wood.mat.meta
+    projectPath: Assets/Materials/Wood.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/AmmoCrate.prefab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/AmmoCrate.prefab
+    projectPath: Assets/Prefabs/AmmoCrate.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/AmmoCrate.prefab.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/AmmoCrate.prefab.meta
+    projectPath: Assets/Prefabs/AmmoCrate.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/AudioManager.prefab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/AudioManager.prefab
+    projectPath: Assets/Prefabs/AudioManager.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Prefabs/ControlPoint.prefab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/ControlPoint.prefab
+    projectPath: Assets/Prefabs/ControlPoint.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Prefabs/Fence.prefab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/Fence.prefab
+    projectPath: Assets/Prefabs/Fence.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Prefabs/Gold Player Controller.prefab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/Gold Player
+      Controller.prefab
+    projectPath: Assets/Prefabs/Gold Player Controller.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Prefabs/InitializeCanvas.prefab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/InitializeCanvas.prefab
+    projectPath: Assets/Prefabs/InitializeCanvas.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Prefabs/MapButton.prefab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/MapButton.prefab
+    projectPath: Assets/Prefabs/MapButton.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/MapButton.prefab.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/MapButton.prefab.meta
+    projectPath: Assets/Prefabs/MapButton.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/SMG.prefab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/SMG.prefab
+    projectPath: Assets/Prefabs/SMG.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/SMG.prefab.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Prefabs/SMG.prefab.meta
+    projectPath: Assets/Prefabs/SMG.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/First Map.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map.meta
+    projectPath: Assets/Scenes/First Map.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/First Map.unity
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map.unity
+    projectPath: Assets/Scenes/First Map.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/First Map/LightingData.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map/LightingData.asset
+    projectPath: Assets/Scenes/First Map/LightingData.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/First Map/LightingData.asset.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map/LightingData.asset.meta
+    projectPath: Assets/Scenes/First Map/LightingData.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/First Map/Lightmap-0_comp_dir.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map/Lightmap-0_comp_dir.png
+    projectPath: Assets/Scenes/First Map/Lightmap-0_comp_dir.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/First Map/Lightmap-0_comp_dir.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map/Lightmap-0_comp_dir.png.meta
+    projectPath: Assets/Scenes/First Map/Lightmap-0_comp_dir.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/First Map/Lightmap-0_comp_light.exr
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map/Lightmap-0_comp_light.exr
+    projectPath: Assets/Scenes/First Map/Lightmap-0_comp_light.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/First Map/Lightmap-0_comp_light.exr.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map/Lightmap-0_comp_light.exr.meta
+    projectPath: Assets/Scenes/First Map/Lightmap-0_comp_light.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/First Map/ReflectionProbe-0.exr
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map/ReflectionProbe-0.exr
+    projectPath: Assets/Scenes/First Map/ReflectionProbe-0.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/First Map/ReflectionProbe-0.exr.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/First Map/ReflectionProbe-0.exr.meta
+    projectPath: Assets/Scenes/First Map/ReflectionProbe-0.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/MainMenu.unity
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/MainMenu.unity
+    projectPath: Assets/Scenes/MainMenu.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Pathfinding Playhouse.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/Pathfinding
+      Playhouse.meta
+    projectPath: Assets/Scenes/Pathfinding Playhouse.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Pathfinding Playhouse.unity
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/Pathfinding
+      Playhouse.unity
+    projectPath: Assets/Scenes/Pathfinding Playhouse.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Pathfinding Playhouse/NavMesh.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/Pathfinding
+      Playhouse/NavMesh.asset
+    projectPath: Assets/Scenes/Pathfinding Playhouse/NavMesh.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Pathfinding Playhouse/NavMesh.asset.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/Pathfinding
+      Playhouse/NavMesh.asset.meta
+    projectPath: Assets/Scenes/Pathfinding Playhouse/NavMesh.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/AmmoCrate.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/AmmoCrate.cs
+    projectPath: Assets/Scripts/AmmoCrate.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/AmmoCrate.cs.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/AmmoCrate.cs.meta
+    projectPath: Assets/Scripts/AmmoCrate.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/ControlPoint.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/ControlPoint.cs
+    projectPath: Assets/Scripts/ControlPoint.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/Enemy.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/Enemy.cs
+    projectPath: Assets/Scripts/Enemy.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/MainMenu.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/MainMenu.cs
+    projectPath: Assets/Scripts/MainMenu.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/PlayerGun.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/PlayerGun.cs
+    projectPath: Assets/Scripts/PlayerGun.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/Redundant/Noclip.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/Redundant/Noclip.cs
+    projectPath: Assets/Scripts/Redundant/Noclip.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/Redundant/Noclip.cs.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/Redundant/Noclip.cs.meta
+    projectPath: Assets/Scripts/Redundant/Noclip.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/ScriptableObjs/MapListing.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/ScriptableObjs/MapListing.cs
+    projectPath: Assets/Scripts/ScriptableObjs/MapListing.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/ScriptableObjs/MapListing.cs.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/ScriptableObjs/MapListing.cs.meta
+    projectPath: Assets/Scripts/ScriptableObjs/MapListing.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/SniperRifle.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/SniperRifle.cs
+    projectPath: Assets/Scripts/SniperRifle.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/UIManager.cs
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Scripts/UIManager.cs
+    projectPath: Assets/Scripts/UIManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Textures/.DS_Store
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/.DS_Store
+    projectPath: Assets/Textures/.DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Ammo.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Ammo.png
+    projectPath: Assets/Textures/Ammo.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Ammo.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Ammo.png.meta
+    projectPath: Assets/Textures/Ammo.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Flag.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Flag.png
+    projectPath: Assets/Textures/Flag.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Flag.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Flag.png.meta
+    projectPath: Assets/Textures/Flag.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/PlayerIndicator.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/PlayerIndicator.png
+    projectPath: Assets/Textures/PlayerIndicator.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/PlayerIndicator.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/PlayerIndicator.png.meta
+    projectPath: Assets/Textures/PlayerIndicator.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Wood.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Wood.meta
+    projectPath: Assets/Textures/Wood.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Wood/Wood027_2K_Color.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Wood/Wood027_2K_Color.png
+    projectPath: Assets/Textures/Wood/Wood027_2K_Color.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Wood/Wood027_2K_Color.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Wood/Wood027_2K_Color.png.meta
+    projectPath: Assets/Textures/Wood/Wood027_2K_Color.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Wood/Wood027_2K_Displacement.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Wood/Wood027_2K_Displacement.png
+    projectPath: Assets/Textures/Wood/Wood027_2K_Displacement.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Wood/Wood027_2K_Displacement.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Wood/Wood027_2K_Displacement.png.meta
+    projectPath: Assets/Textures/Wood/Wood027_2K_Displacement.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Wood/Wood027_2K_Normal.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Wood/Wood027_2K_Normal.png
+    projectPath: Assets/Textures/Wood/Wood027_2K_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Wood/Wood027_2K_Normal.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Wood/Wood027_2K_Normal.png.meta
+    projectPath: Assets/Textures/Wood/Wood027_2K_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Wood/Wood027_2K_Roughness.png
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Wood/Wood027_2K_Roughness.png
+    projectPath: Assets/Textures/Wood/Wood027_2K_Roughness.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/Wood/Wood027_2K_Roughness.png.meta
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Assets/Textures/Wood/Wood027_2K_Roughness.png.meta
+    projectPath: Assets/Textures/Wood/Wood027_2K_Roughness.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrowMeadow.sln
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/CrowMeadow.sln
+    projectPath: CrowMeadow.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/04/044eccc39742b158709081f24fbeaab2
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/04/044eccc39742b158709081f24fbeaab2
+    projectPath: Library/Artifacts/04/044eccc39742b158709081f24fbeaab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/07/07385f21d3c41f472fcefd2c2b1f4622
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/07/07385f21d3c41f472fcefd2c2b1f4622
+    projectPath: Library/Artifacts/07/07385f21d3c41f472fcefd2c2b1f4622
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/08/080d60f1112fb32a056e4a14cb5fda0c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/08/080d60f1112fb32a056e4a14cb5fda0c
+    projectPath: Library/Artifacts/08/080d60f1112fb32a056e4a14cb5fda0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/09/09e3736c35bd491f89b372917773ad40
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/09/09e3736c35bd491f89b372917773ad40
+    projectPath: Library/Artifacts/09/09e3736c35bd491f89b372917773ad40
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0a/0a548cd1bee553b91378c60cd94d41f3
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/0a/0a548cd1bee553b91378c60cd94d41f3
+    projectPath: Library/Artifacts/0a/0a548cd1bee553b91378c60cd94d41f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0d/0d0683a022441211396903ca4f74c6ba
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/0d/0d0683a022441211396903ca4f74c6ba
+    projectPath: Library/Artifacts/0d/0d0683a022441211396903ca4f74c6ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/0d/0d6270dfa400a591b8287ff1aed277f2
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/0d/0d6270dfa400a591b8287ff1aed277f2
+    projectPath: Library/Artifacts/0d/0d6270dfa400a591b8287ff1aed277f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/0e/0ecd97c134ba0f829da288a05e11c217
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/0e/0ecd97c134ba0f829da288a05e11c217
+    projectPath: Library/Artifacts/0e/0ecd97c134ba0f829da288a05e11c217
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/12/121fe42707ab8b3491ac8fab0c234e2b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/12/121fe42707ab8b3491ac8fab0c234e2b
+    projectPath: Library/Artifacts/12/121fe42707ab8b3491ac8fab0c234e2b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1c/1cc0a7c4f6ebb81f9ba14f5a85ac5d2c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/1c/1cc0a7c4f6ebb81f9ba14f5a85ac5d2c
+    projectPath: Library/Artifacts/1c/1cc0a7c4f6ebb81f9ba14f5a85ac5d2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/25/2563515cd657438af2d72f5ea670d440
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/25/2563515cd657438af2d72f5ea670d440
+    projectPath: Library/Artifacts/25/2563515cd657438af2d72f5ea670d440
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/26/260eca828a2b9b9c1f7dfaf2eec088e6
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/26/260eca828a2b9b9c1f7dfaf2eec088e6
+    projectPath: Library/Artifacts/26/260eca828a2b9b9c1f7dfaf2eec088e6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/27/2767bfe506dc8d8f539194e1c30b997a
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/27/2767bfe506dc8d8f539194e1c30b997a
+    projectPath: Library/Artifacts/27/2767bfe506dc8d8f539194e1c30b997a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/27/2767c030fe2a16cdc60c8f7565432ffb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/27/2767c030fe2a16cdc60c8f7565432ffb
+    projectPath: Library/Artifacts/27/2767c030fe2a16cdc60c8f7565432ffb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/29/29ee0bf9547726745053d09ce8a03518
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/29/29ee0bf9547726745053d09ce8a03518
+    projectPath: Library/Artifacts/29/29ee0bf9547726745053d09ce8a03518
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/2c/2c889a1bc58f6d898e40e8da54cb7a74
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/2c/2c889a1bc58f6d898e40e8da54cb7a74
+    projectPath: Library/Artifacts/2c/2c889a1bc58f6d898e40e8da54cb7a74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/32/3296e9bb27c3982483c10669fa662548
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/32/3296e9bb27c3982483c10669fa662548
+    projectPath: Library/Artifacts/32/3296e9bb27c3982483c10669fa662548
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/33/33a1b2df26fbef2840bed70c122b7dc1
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/33/33a1b2df26fbef2840bed70c122b7dc1
+    projectPath: Library/Artifacts/33/33a1b2df26fbef2840bed70c122b7dc1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/33/33c95fda045fe86071d605fdfd97e9e5
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/33/33c95fda045fe86071d605fdfd97e9e5
+    projectPath: Library/Artifacts/33/33c95fda045fe86071d605fdfd97e9e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/38/38f54f428bba8fc929768e7451c6cab3
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/38/38f54f428bba8fc929768e7451c6cab3
+    projectPath: Library/Artifacts/38/38f54f428bba8fc929768e7451c6cab3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/39/39f47263cbed5257db207f2f04a67541
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/39/39f47263cbed5257db207f2f04a67541
+    projectPath: Library/Artifacts/39/39f47263cbed5257db207f2f04a67541
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/3f/3f2e5e52832ceabc31a709510d74b025
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/3f/3f2e5e52832ceabc31a709510d74b025
+    projectPath: Library/Artifacts/3f/3f2e5e52832ceabc31a709510d74b025
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/41/414a3ee55811b931b4a5ab91672ff19b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/41/414a3ee55811b931b4a5ab91672ff19b
+    projectPath: Library/Artifacts/41/414a3ee55811b931b4a5ab91672ff19b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/41/415d998fccd20474141bfe03acfde5e2
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/41/415d998fccd20474141bfe03acfde5e2
+    projectPath: Library/Artifacts/41/415d998fccd20474141bfe03acfde5e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/43/43d80f9ccc9a3850326655168e9a89ac
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/43/43d80f9ccc9a3850326655168e9a89ac
+    projectPath: Library/Artifacts/43/43d80f9ccc9a3850326655168e9a89ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/46/4687c84fd85e336cd42c90796aa2f8c4
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/46/4687c84fd85e336cd42c90796aa2f8c4
+    projectPath: Library/Artifacts/46/4687c84fd85e336cd42c90796aa2f8c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4b/4b5e55375a864e61079c128ec9e99d2e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/4b/4b5e55375a864e61079c128ec9e99d2e
+    projectPath: Library/Artifacts/4b/4b5e55375a864e61079c128ec9e99d2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/53/5313f06141cf128ed557dd4f00dc186a
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/53/5313f06141cf128ed557dd4f00dc186a
+    projectPath: Library/Artifacts/53/5313f06141cf128ed557dd4f00dc186a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/56/563facfd8e0cccf8d33d1ccfbe8f29d7
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/56/563facfd8e0cccf8d33d1ccfbe8f29d7
+    projectPath: Library/Artifacts/56/563facfd8e0cccf8d33d1ccfbe8f29d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/56/5688a0d1d6f1d890475c33f2ceb7691b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/56/5688a0d1d6f1d890475c33f2ceb7691b
+    projectPath: Library/Artifacts/56/5688a0d1d6f1d890475c33f2ceb7691b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/58/580f583c7550cbc7aa32c34e86f77af6
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/58/580f583c7550cbc7aa32c34e86f77af6
+    projectPath: Library/Artifacts/58/580f583c7550cbc7aa32c34e86f77af6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/59/5948e7ce0112a914d78926b953194a8c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/59/5948e7ce0112a914d78926b953194a8c
+    projectPath: Library/Artifacts/59/5948e7ce0112a914d78926b953194a8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5a/5a5afa88c248624e41ac27c9a4e4a469
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/5a/5a5afa88c248624e41ac27c9a4e4a469
+    projectPath: Library/Artifacts/5a/5a5afa88c248624e41ac27c9a4e4a469
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5a/5aa3eca32d6bd50ba5a00940a7995dfb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/5a/5aa3eca32d6bd50ba5a00940a7995dfb
+    projectPath: Library/Artifacts/5a/5aa3eca32d6bd50ba5a00940a7995dfb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5a/5addd7375d09d2ec637aa9634b8b4af7
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/5a/5addd7375d09d2ec637aa9634b8b4af7
+    projectPath: Library/Artifacts/5a/5addd7375d09d2ec637aa9634b8b4af7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5c/5c7ca02657a21a97e100d7e15d7fde3f
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/5c/5c7ca02657a21a97e100d7e15d7fde3f
+    projectPath: Library/Artifacts/5c/5c7ca02657a21a97e100d7e15d7fde3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5c/5cb86b7167d7c778895760345b5c13c7
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/5c/5cb86b7167d7c778895760345b5c13c7
+    projectPath: Library/Artifacts/5c/5cb86b7167d7c778895760345b5c13c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/62/620ebe0eb5396706357eb43648631e4a
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/62/620ebe0eb5396706357eb43648631e4a
+    projectPath: Library/Artifacts/62/620ebe0eb5396706357eb43648631e4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/62/62afae24e86ed618c3e4205ffe50325a
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/62/62afae24e86ed618c3e4205ffe50325a
+    projectPath: Library/Artifacts/62/62afae24e86ed618c3e4205ffe50325a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/63/63d133257e0cb7870c4346eb3e4af3aa
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/63/63d133257e0cb7870c4346eb3e4af3aa
+    projectPath: Library/Artifacts/63/63d133257e0cb7870c4346eb3e4af3aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/64/6444b08919b7d4ff70393b48b42be58f
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/64/6444b08919b7d4ff70393b48b42be58f
+    projectPath: Library/Artifacts/64/6444b08919b7d4ff70393b48b42be58f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/67/67f65ccf9d7c0bf516a2318ee307199e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/67/67f65ccf9d7c0bf516a2318ee307199e
+    projectPath: Library/Artifacts/67/67f65ccf9d7c0bf516a2318ee307199e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6e/6efb824cc287b24b72190e3953174335
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/6e/6efb824cc287b24b72190e3953174335
+    projectPath: Library/Artifacts/6e/6efb824cc287b24b72190e3953174335
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/73/734f232dad42e9ecc5ebbab63aaca045
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/73/734f232dad42e9ecc5ebbab63aaca045
+    projectPath: Library/Artifacts/73/734f232dad42e9ecc5ebbab63aaca045
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/75/75da6e98d7a5adcd5f2aa64f64bde023
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/75/75da6e98d7a5adcd5f2aa64f64bde023
+    projectPath: Library/Artifacts/75/75da6e98d7a5adcd5f2aa64f64bde023
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/76/76d618a8df656586b959f04870fb24bf
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/76/76d618a8df656586b959f04870fb24bf
+    projectPath: Library/Artifacts/76/76d618a8df656586b959f04870fb24bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/77/77d0cc7b741de2b355495951c21c09d5
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/77/77d0cc7b741de2b355495951c21c09d5
+    projectPath: Library/Artifacts/77/77d0cc7b741de2b355495951c21c09d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7b/7b4a4916b1d8300d25e75f2583309ff9
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/7b/7b4a4916b1d8300d25e75f2583309ff9
+    projectPath: Library/Artifacts/7b/7b4a4916b1d8300d25e75f2583309ff9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7f/7f143b90ffff6906e5f53dbee43f82f2
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/7f/7f143b90ffff6906e5f53dbee43f82f2
+    projectPath: Library/Artifacts/7f/7f143b90ffff6906e5f53dbee43f82f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/80/80245b07530358ebb14e964c01d3bc57
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/80/80245b07530358ebb14e964c01d3bc57
+    projectPath: Library/Artifacts/80/80245b07530358ebb14e964c01d3bc57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/81/817901da5addd11c93c69b3343db46c6
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/81/817901da5addd11c93c69b3343db46c6
+    projectPath: Library/Artifacts/81/817901da5addd11c93c69b3343db46c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/82/82875efa7a5704b725a99c7047ec743e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/82/82875efa7a5704b725a99c7047ec743e
+    projectPath: Library/Artifacts/82/82875efa7a5704b725a99c7047ec743e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/84/847e90b006060b5347b8cb8d00433cb7
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/84/847e90b006060b5347b8cb8d00433cb7
+    projectPath: Library/Artifacts/84/847e90b006060b5347b8cb8d00433cb7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/85/85a2058360fa8c91158c93e75ac2fe52
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/85/85a2058360fa8c91158c93e75ac2fe52
+    projectPath: Library/Artifacts/85/85a2058360fa8c91158c93e75ac2fe52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/87/87ad2ce7bdb7f5ac1244316aff15c044
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/87/87ad2ce7bdb7f5ac1244316aff15c044
+    projectPath: Library/Artifacts/87/87ad2ce7bdb7f5ac1244316aff15c044
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/89/89e63d40c4a2c0cbacd9f425221f4553
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/89/89e63d40c4a2c0cbacd9f425221f4553
+    projectPath: Library/Artifacts/89/89e63d40c4a2c0cbacd9f425221f4553
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8a/8a58ca887a9e26539c2104dd22cacacb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/8a/8a58ca887a9e26539c2104dd22cacacb
+    projectPath: Library/Artifacts/8a/8a58ca887a9e26539c2104dd22cacacb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8b/8b1f19dca18672c1d0ddd57f06fd4495
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/8b/8b1f19dca18672c1d0ddd57f06fd4495
+    projectPath: Library/Artifacts/8b/8b1f19dca18672c1d0ddd57f06fd4495
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8c/8cb7a2efcc6de005f145eb0dc6ca2a87
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/8c/8cb7a2efcc6de005f145eb0dc6ca2a87
+    projectPath: Library/Artifacts/8c/8cb7a2efcc6de005f145eb0dc6ca2a87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8d/8d71b718527b12a2d35df99b11ce134b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/8d/8d71b718527b12a2d35df99b11ce134b
+    projectPath: Library/Artifacts/8d/8d71b718527b12a2d35df99b11ce134b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8e/8ebefe9d0b988891e30b9bd1213399e8
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/8e/8ebefe9d0b988891e30b9bd1213399e8
+    projectPath: Library/Artifacts/8e/8ebefe9d0b988891e30b9bd1213399e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/90/9033b2b3752824e3c57772815929b751
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/90/9033b2b3752824e3c57772815929b751
+    projectPath: Library/Artifacts/90/9033b2b3752824e3c57772815929b751
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/90/90f39c322e2b1eca870fed667c180f86
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/90/90f39c322e2b1eca870fed667c180f86
+    projectPath: Library/Artifacts/90/90f39c322e2b1eca870fed667c180f86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9d/9d392c52d295089585eb1469183a8006
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/9d/9d392c52d295089585eb1469183a8006
+    projectPath: Library/Artifacts/9d/9d392c52d295089585eb1469183a8006
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9e/9ef73e09563318c39003696e7b7b8613
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/9e/9ef73e09563318c39003696e7b7b8613
+    projectPath: Library/Artifacts/9e/9ef73e09563318c39003696e7b7b8613
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9f/9fecf14e25f0e01927a375a91227d944
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/9f/9fecf14e25f0e01927a375a91227d944
+    projectPath: Library/Artifacts/9f/9fecf14e25f0e01927a375a91227d944
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a0/a0b77725ba3b2996bcc63ea85667eab5
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/a0/a0b77725ba3b2996bcc63ea85667eab5
+    projectPath: Library/Artifacts/a0/a0b77725ba3b2996bcc63ea85667eab5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a1/a1e07e70d7126fb55c12c3fce0a67f63
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/a1/a1e07e70d7126fb55c12c3fce0a67f63
+    projectPath: Library/Artifacts/a1/a1e07e70d7126fb55c12c3fce0a67f63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a3/a364bf9bcfce86d382dcecb65cbc3eb2
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/a3/a364bf9bcfce86d382dcecb65cbc3eb2
+    projectPath: Library/Artifacts/a3/a364bf9bcfce86d382dcecb65cbc3eb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a5/a55f9af29b3690482390edfe20f9e06a
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/a5/a55f9af29b3690482390edfe20f9e06a
+    projectPath: Library/Artifacts/a5/a55f9af29b3690482390edfe20f9e06a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a5/a56c0c166e8bbb9bbf79f7fc53055062
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/a5/a56c0c166e8bbb9bbf79f7fc53055062
+    projectPath: Library/Artifacts/a5/a56c0c166e8bbb9bbf79f7fc53055062
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a7/a7adb061b2d39bbc222374cf37350c1a
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/a7/a7adb061b2d39bbc222374cf37350c1a
+    projectPath: Library/Artifacts/a7/a7adb061b2d39bbc222374cf37350c1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/aa/aa22a23ebcf3cc324781484b29f3cba0
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/aa/aa22a23ebcf3cc324781484b29f3cba0
+    projectPath: Library/Artifacts/aa/aa22a23ebcf3cc324781484b29f3cba0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ac/ac0036703194fe243d11694911949d01
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/ac/ac0036703194fe243d11694911949d01
+    projectPath: Library/Artifacts/ac/ac0036703194fe243d11694911949d01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ae/ae7d8be5aa35b0def2955ce61e966162
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/ae/ae7d8be5aa35b0def2955ce61e966162
+    projectPath: Library/Artifacts/ae/ae7d8be5aa35b0def2955ce61e966162
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ae/aed358b7fba5dc88ae2c104bcc1eda2c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/ae/aed358b7fba5dc88ae2c104bcc1eda2c
+    projectPath: Library/Artifacts/ae/aed358b7fba5dc88ae2c104bcc1eda2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b2/b2669ea2a30aa0990d08e1bf86f86328
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/b2/b2669ea2a30aa0990d08e1bf86f86328
+    projectPath: Library/Artifacts/b2/b2669ea2a30aa0990d08e1bf86f86328
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b2/b2e26d4c0b4d45f064de2601378f80a0
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/b2/b2e26d4c0b4d45f064de2601378f80a0
+    projectPath: Library/Artifacts/b2/b2e26d4c0b4d45f064de2601378f80a0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b5/b5c240b4cb7f30f8aeabbf147a004c18
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/b5/b5c240b4cb7f30f8aeabbf147a004c18
+    projectPath: Library/Artifacts/b5/b5c240b4cb7f30f8aeabbf147a004c18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b7/b7e319661707f7d2a27db1495a8aa07f
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/b7/b7e319661707f7d2a27db1495a8aa07f
+    projectPath: Library/Artifacts/b7/b7e319661707f7d2a27db1495a8aa07f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b8/b8190e0d5b312a8332f985f77e63b541
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/b8/b8190e0d5b312a8332f985f77e63b541
+    projectPath: Library/Artifacts/b8/b8190e0d5b312a8332f985f77e63b541
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ba/bafb793e8b494ea294029d93bb0f07be
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/ba/bafb793e8b494ea294029d93bb0f07be
+    projectPath: Library/Artifacts/ba/bafb793e8b494ea294029d93bb0f07be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bb/bb03e5c877ba3ee5b9880adb8f9d21d6
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/bb/bb03e5c877ba3ee5b9880adb8f9d21d6
+    projectPath: Library/Artifacts/bb/bb03e5c877ba3ee5b9880adb8f9d21d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/be/be176f36628502d0eb89650a52b75acd
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/be/be176f36628502d0eb89650a52b75acd
+    projectPath: Library/Artifacts/be/be176f36628502d0eb89650a52b75acd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c3/c3f9e049b5695612d570e4a5c9b44f7c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/c3/c3f9e049b5695612d570e4a5c9b44f7c
+    projectPath: Library/Artifacts/c3/c3f9e049b5695612d570e4a5c9b44f7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c6/c6f9f301e07c280c3073c8c1fe4fb66f
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/c6/c6f9f301e07c280c3073c8c1fe4fb66f
+    projectPath: Library/Artifacts/c6/c6f9f301e07c280c3073c8c1fe4fb66f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c7/c7a440894572d39a27e7fc304c86cbfe
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/c7/c7a440894572d39a27e7fc304c86cbfe
+    projectPath: Library/Artifacts/c7/c7a440894572d39a27e7fc304c86cbfe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c8/c8e1e9984c6a5bd3d5920cdaf10e1490
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/c8/c8e1e9984c6a5bd3d5920cdaf10e1490
+    projectPath: Library/Artifacts/c8/c8e1e9984c6a5bd3d5920cdaf10e1490
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c9/c91ea38e2749904ede1d1029459ec70a
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/c9/c91ea38e2749904ede1d1029459ec70a
+    projectPath: Library/Artifacts/c9/c91ea38e2749904ede1d1029459ec70a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ca/caf3cececef26c0a6cd98ffb8cc440f8
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/ca/caf3cececef26c0a6cd98ffb8cc440f8
+    projectPath: Library/Artifacts/ca/caf3cececef26c0a6cd98ffb8cc440f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cb/cb4e0bf5018955e0f3ca95103ce9e7bd
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/cb/cb4e0bf5018955e0f3ca95103ce9e7bd
+    projectPath: Library/Artifacts/cb/cb4e0bf5018955e0f3ca95103ce9e7bd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cc/ccd7d8b14cf99951d468c16fccd04f5c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/cc/ccd7d8b14cf99951d468c16fccd04f5c
+    projectPath: Library/Artifacts/cc/ccd7d8b14cf99951d468c16fccd04f5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cd/cdc53ac850205fe38e768cd3758f91b3
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/cd/cdc53ac850205fe38e768cd3758f91b3
+    projectPath: Library/Artifacts/cd/cdc53ac850205fe38e768cd3758f91b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d1/d19bcfe6adfab23ce8788c8bcd50d8f9
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/d1/d19bcfe6adfab23ce8788c8bcd50d8f9
+    projectPath: Library/Artifacts/d1/d19bcfe6adfab23ce8788c8bcd50d8f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d4/d41331864b7b1fe4de01a3db65908268
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/d4/d41331864b7b1fe4de01a3db65908268
+    projectPath: Library/Artifacts/d4/d41331864b7b1fe4de01a3db65908268
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d9/d9fdb957f9ce20ff97a6cde5be47c7b2
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/d9/d9fdb957f9ce20ff97a6cde5be47c7b2
+    projectPath: Library/Artifacts/d9/d9fdb957f9ce20ff97a6cde5be47c7b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/dc/dc396b16e509033daf9631523c405a89
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/dc/dc396b16e509033daf9631523c405a89
+    projectPath: Library/Artifacts/dc/dc396b16e509033daf9631523c405a89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/dc/dc6d8dbaceadf5db1fec280f848cce3b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/dc/dc6d8dbaceadf5db1fec280f848cce3b
+    projectPath: Library/Artifacts/dc/dc6d8dbaceadf5db1fec280f848cce3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/de/deae3742beffcf45ddaf642913d13674
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/de/deae3742beffcf45ddaf642913d13674
+    projectPath: Library/Artifacts/de/deae3742beffcf45ddaf642913d13674
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e2/e29e4e9f4ee0b46543dbcf1dafb67f63
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/e2/e29e4e9f4ee0b46543dbcf1dafb67f63
+    projectPath: Library/Artifacts/e2/e29e4e9f4ee0b46543dbcf1dafb67f63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e5/e5a83248bf48253b3ee88bc4088104a4
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/e5/e5a83248bf48253b3ee88bc4088104a4
+    projectPath: Library/Artifacts/e5/e5a83248bf48253b3ee88bc4088104a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e5/e5ee8ab03c0ad8df3e1f105db2e0d4d3
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/e5/e5ee8ab03c0ad8df3e1f105db2e0d4d3
+    projectPath: Library/Artifacts/e5/e5ee8ab03c0ad8df3e1f105db2e0d4d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e8/e831a4801e9d472b27c5cfad64034a58
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/e8/e831a4801e9d472b27c5cfad64034a58
+    projectPath: Library/Artifacts/e8/e831a4801e9d472b27c5cfad64034a58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ea/ea64f72a47e9d2fecee548ef991b1690
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/ea/ea64f72a47e9d2fecee548ef991b1690
+    projectPath: Library/Artifacts/ea/ea64f72a47e9d2fecee548ef991b1690
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f0/f04ecb4053f214b56ae5a200574097bd
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f0/f04ecb4053f214b56ae5a200574097bd
+    projectPath: Library/Artifacts/f0/f04ecb4053f214b56ae5a200574097bd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f0/f0dcd3fec02d104c06779ff7872eded9
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f0/f0dcd3fec02d104c06779ff7872eded9
+    projectPath: Library/Artifacts/f0/f0dcd3fec02d104c06779ff7872eded9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f1/f11240be9c23f1b6970d79b3d287f90f
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f1/f11240be9c23f1b6970d79b3d287f90f
+    projectPath: Library/Artifacts/f1/f11240be9c23f1b6970d79b3d287f90f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f2/f241ebfc45abf5a88ea2a345c9349f70
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f2/f241ebfc45abf5a88ea2a345c9349f70
+    projectPath: Library/Artifacts/f2/f241ebfc45abf5a88ea2a345c9349f70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f2/f2e3ca9b8de14d388873c73a4d59c46e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f2/f2e3ca9b8de14d388873c73a4d59c46e
+    projectPath: Library/Artifacts/f2/f2e3ca9b8de14d388873c73a4d59c46e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f3/f36929e913bc0d4a9e5d20f46ebd1399
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f3/f36929e913bc0d4a9e5d20f46ebd1399
+    projectPath: Library/Artifacts/f3/f36929e913bc0d4a9e5d20f46ebd1399
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f4/f4e9004c2dac09ac2d26bb2acbc8e924
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f4/f4e9004c2dac09ac2d26bb2acbc8e924
+    projectPath: Library/Artifacts/f4/f4e9004c2dac09ac2d26bb2acbc8e924
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f6/f6fdb870d5b76ac8506196c935baef05
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f6/f6fdb870d5b76ac8506196c935baef05
+    projectPath: Library/Artifacts/f6/f6fdb870d5b76ac8506196c935baef05
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f7/f72c47f2737a12a02b61f3b159331e3b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f7/f72c47f2737a12a02b61f3b159331e3b
+    projectPath: Library/Artifacts/f7/f72c47f2737a12a02b61f3b159331e3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f8/f897f8b851a85efb41b748205228babe
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/f8/f897f8b851a85efb41b748205228babe
+    projectPath: Library/Artifacts/f8/f897f8b851a85efb41b748205228babe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fc/fce0a762419cb939701a13dd24525b18
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/fc/fce0a762419cb939701a13dd24525b18
+    projectPath: Library/Artifacts/fc/fce0a762419cb939701a13dd24525b18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fd/fd6c8b2133b172404ca9ba36fb6cba95
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/fd/fd6c8b2133b172404ca9ba36fb6cba95
+    projectPath: Library/Artifacts/fd/fd6c8b2133b172404ca9ba36fb6cba95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fe/fe29f2b47a49128c7754f13cff73c6d7
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/fe/fe29f2b47a49128c7754f13cff73c6d7
+    projectPath: Library/Artifacts/fe/fe29f2b47a49128c7754f13cff73c6d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ff/ff414379600f30b395c0c54fe1aa4f9e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Artifacts/ff/ff414379600f30b395c0c54fe1aa4f9e
+    projectPath: Library/Artifacts/ff/ff414379600f30b395c0c54fe1aa4f9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window 8.yml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Collab/Cache/Window
+      8.yml
+    projectPath: Library/Collab/Cache/Window 8.yml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window 9.yml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Collab/Cache/Window
+      9.yml
+    projectPath: Library/Collab/Cache/Window 9.yml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window.yml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Collab/Cache/Window.yml
+    projectPath: Library/Collab/Cache/Window.yml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Collab/CollabSnapshot_ab505561-e2d2-4095-b83e-127ea497cef7.txt
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Collab/CollabSnapshot_ab505561-e2d2-4095-b83e-127ea497cef7.txt
+    projectPath: Library/Collab/CollabSnapshot_ab505561-e2d2-4095-b83e-127ea497cef7.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Collab/Download/Assets/Scenes/SampleScene.unity
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Collab/Download/Assets/Scenes/SampleScene.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/ProjectSettings/NavMeshAreas.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Collab/Download/ProjectSettings/NavMeshAreas.asset
+    projectPath: Library/Collab/Download/ProjectSettings/NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/Collab/Download/ProjectSettings/ProjectSettings.asset
+    projectPath: Library/Collab/Download/ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorSnapSettings 7.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/EditorSnapSettings
+      7.asset
+    projectPath: Library/EditorSnapSettings 7.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorSnapSettings 8.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/EditorSnapSettings
+      8.asset
+    projectPath: Library/EditorSnapSettings 8.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/branches 2.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/branches
+      2.yaml
+    projectPath: Library/gfu/cache/branches 2.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/branches 3.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/branches
+      3.yaml
+    projectPath: Library/gfu/cache/branches 3.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries 2.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/gitstatusentries
+      2.yaml
+    projectPath: Library/gfu/cache/gitstatusentries 2.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gittrackingstatus 2.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/gittrackingstatus
+      2.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus 2.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gituser 2.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/gituser
+      2.yaml
+    projectPath: Library/gfu/cache/gituser 2.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/repoinfo 2.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/repoinfo
+      2.yaml
+    projectPath: Library/gfu/cache/repoinfo 2.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    projectPath: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/1/14010e0aca8d9db363e0e021c7acfc86.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/1/14010e0aca8d9db363e0e021c7acfc86.bin
+    projectPath: Library/ShaderCache/1/14010e0aca8d9db363e0e021c7acfc86.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/2/20a0e6e9a51100b8d395610e57cf50eb.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/2/20a0e6e9a51100b8d395610e57cf50eb.bin
+    projectPath: Library/ShaderCache/2/20a0e6e9a51100b8d395610e57cf50eb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/3/3ca51995b194505ea3969a8ccc8e2d03.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/3/3ca51995b194505ea3969a8ccc8e2d03.bin
+    projectPath: Library/ShaderCache/3/3ca51995b194505ea3969a8ccc8e2d03.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/5/5579d59152cae479676082126cfc718e.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/5/5579d59152cae479676082126cfc718e.bin
+    projectPath: Library/ShaderCache/5/5579d59152cae479676082126cfc718e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/5/57264455468be88fc8f44c244f2aa815.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/5/57264455468be88fc8f44c244f2aa815.bin
+    projectPath: Library/ShaderCache/5/57264455468be88fc8f44c244f2aa815.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/5/5d02934c2234b4298a559c7673b46ef8.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/5/5d02934c2234b4298a559c7673b46ef8.bin
+    projectPath: Library/ShaderCache/5/5d02934c2234b4298a559c7673b46ef8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/6/6399b45ad8b5f7f4ce506f10c45eabaa.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/6/6399b45ad8b5f7f4ce506f10c45eabaa.bin
+    projectPath: Library/ShaderCache/6/6399b45ad8b5f7f4ce506f10c45eabaa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/8/80bf54156b9c870b5e02d9be06d7f955.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/8/80bf54156b9c870b5e02d9be06d7f955.bin
+    projectPath: Library/ShaderCache/8/80bf54156b9c870b5e02d9be06d7f955.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/8/88fc08e5bbd535b4d698fa959a0c2f0b.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/8/88fc08e5bbd535b4d698fa959a0c2f0b.bin
+    projectPath: Library/ShaderCache/8/88fc08e5bbd535b4d698fa959a0c2f0b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/c/cbcf1de7db76aa4d997b6af9ebe23c51.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/c/cbcf1de7db76aa4d997b6af9ebe23c51.bin
+    projectPath: Library/ShaderCache/c/cbcf1de7db76aa4d997b6af9ebe23c51.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/d/d7be458548d35da71001453cfc7b9421.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/d/d7be458548d35da71001453cfc7b9421.bin
+    projectPath: Library/ShaderCache/d/d7be458548d35da71001453cfc7b9421.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/e/e5ec5da093be92678cd37c1daa19ffc3.bin
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/e/e5ec5da093be92678cd37c1daa19ffc3.bin
+    projectPath: Library/ShaderCache/e/e5ec5da093be92678cd37c1daa19ffc3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/SourceAssetDB-lock
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/SourceAssetDB-lock
+    projectPath: Library/SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/PrefabStageHierarchy/36/3610960445f4e68ffd443ae95d6cbd8e.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/PrefabStageHierarchy/36/3610960445f4e68ffd443ae95d6cbd8e.json
+    projectPath: Library/StateCache/PrefabStageHierarchy/36/3610960445f4e68ffd443ae95d6cbd8e.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/PrefabStageHierarchy/4e/4e3306d57f2f5cdd62ac938642b4b5f3.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/PrefabStageHierarchy/4e/4e3306d57f2f5cdd62ac938642b4b5f3.json
+    projectPath: Library/StateCache/PrefabStageHierarchy/4e/4e3306d57f2f5cdd62ac938642b4b5f3.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/PrefabStageHierarchy/92/928d3f6e00b1fb4fddf465b435d2772b.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/PrefabStageHierarchy/92/928d3f6e00b1fb4fddf465b435d2772b.json
+    projectPath: Library/StateCache/PrefabStageHierarchy/92/928d3f6e00b1fb4fddf465b435d2772b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/PrefabStageHierarchy/da/da9682c0110359e994f70eb679bd8ee0.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/PrefabStageHierarchy/da/da9682c0110359e994f70eb679bd8ee0.json
+    projectPath: Library/StateCache/PrefabStageHierarchy/da/da9682c0110359e994f70eb679bd8ee0.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/PrefabStageHierarchy/fe/fe1e603b6c798f6f11a9cf4a86d5f7f9.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/PrefabStageHierarchy/fe/fe1e603b6c798f6f11a9cf4a86d5f7f9.json
+    projectPath: Library/StateCache/PrefabStageHierarchy/fe/fe1e603b6c798f6f11a9cf4a86d5f7f9.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/PrefabStageHierarchy/ff/ff3dead563ff6094f07ff65b6a538a07.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/PrefabStageHierarchy/ff/ff3dead563ff6094f07ff65b6a538a07.json
+    projectPath: Library/StateCache/PrefabStageHierarchy/ff/ff3dead563ff6094f07ff65b6a538a07.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/11/11273a9e0a8bc9262738f63dabb6bfb7.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/SceneView/11/11273a9e0a8bc9262738f63dabb6bfb7.json
+    projectPath: Library/StateCache/SceneView/11/11273a9e0a8bc9262738f63dabb6bfb7.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/SceneView/36/365649bf8d34cf72b58fb9d51b511e5a.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/SceneView/36/365649bf8d34cf72b58fb9d51b511e5a.json
+    projectPath: Library/StateCache/SceneView/36/365649bf8d34cf72b58fb9d51b511e5a.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/85/85dcd1a9abfca0875fcae808c94ba1f5.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/SceneView/85/85dcd1a9abfca0875fcae808c94ba1f5.json
+    projectPath: Library/StateCache/SceneView/85/85dcd1a9abfca0875fcae808c94ba1f5.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/95/95cb88dd2531b50f6c9b7e2a62aab3d3.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/SceneView/95/95cb88dd2531b50f6c9b7e2a62aab3d3.json
+    projectPath: Library/StateCache/SceneView/95/95cb88dd2531b50f6c9b7e2a62aab3d3.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/SceneView/cb/cb5d6b1a40d261cfb3682ba9567edf9a.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/SceneView/cb/cb5d6b1a40d261cfb3682ba9567edf9a.json
+    projectPath: Library/StateCache/SceneView/cb/cb5d6b1a40d261cfb3682ba9567edf9a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/SceneView/de/de3f44adbf6a9da0265dd83cb111dc9a.json
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/StateCache/SceneView/de/de3f44adbf6a9da0265dd83cb111dc9a.json
+    projectPath: Library/StateCache/SceneView/de/de3f44adbf6a9da0265dd83cb111dc9a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/TerrainTools/PaintTexture 2
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Library/TerrainTools/PaintTexture
+      2
+    projectPath: Library/TerrainTools/PaintTexture 2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs/AssetImportWorker0-prev.log
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Logs/AssetImportWorker0-prev.log
+    projectPath: Logs/AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs/Packages-Update.log
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Logs/Packages-Update.log
+    projectPath: Logs/Packages-Update.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Logs/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/obj/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/EditorBuildSettings.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/ProjectSettings/EditorBuildSettings.asset
+    projectPath: ProjectSettings/EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/NavMeshAreas.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/ProjectSettings/NavMeshAreas.asset
+    projectPath: ProjectSettings/NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Assembly-CSharp.dll.hash
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/Assembly-CSharp.dll.hash
+    projectPath: Temp/Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/CompilationLog.txt
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-00ffbd8020baf41429aea24749f02a42
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-00ffbd8020baf41429aea24749f02a42
+    projectPath: Temp/UnityTempFile-00ffbd8020baf41429aea24749f02a42
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-016f534ef34f44a54a69b1332e1d6818
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-016f534ef34f44a54a69b1332e1d6818
+    projectPath: Temp/UnityTempFile-016f534ef34f44a54a69b1332e1d6818
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-01c3b760ab1f54bc18642321c269d5e1
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-01c3b760ab1f54bc18642321c269d5e1
+    projectPath: Temp/UnityTempFile-01c3b760ab1f54bc18642321c269d5e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-01e2621621c5b47debb025048d202c1e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-01e2621621c5b47debb025048d202c1e
+    projectPath: Temp/UnityTempFile-01e2621621c5b47debb025048d202c1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-049e97124a1fc441ba1b325fe452307c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-049e97124a1fc441ba1b325fe452307c
+    projectPath: Temp/UnityTempFile-049e97124a1fc441ba1b325fe452307c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-05647ac3b3b7e45f8a601ebe5f3840a8
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-05647ac3b3b7e45f8a601ebe5f3840a8
+    projectPath: Temp/UnityTempFile-05647ac3b3b7e45f8a601ebe5f3840a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-06d5405600f9348f0aab14ec7feb64d6
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-06d5405600f9348f0aab14ec7feb64d6
+    projectPath: Temp/UnityTempFile-06d5405600f9348f0aab14ec7feb64d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0a798c3c64a6f4b38901767075ac64ff
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-0a798c3c64a6f4b38901767075ac64ff
+    projectPath: Temp/UnityTempFile-0a798c3c64a6f4b38901767075ac64ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0b03d31da61724a57a6a3bda0a03b048
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-0b03d31da61724a57a6a3bda0a03b048
+    projectPath: Temp/UnityTempFile-0b03d31da61724a57a6a3bda0a03b048
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0d9b75d9eeadf43c08b9f5d87ace88ef
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-0d9b75d9eeadf43c08b9f5d87ace88ef
+    projectPath: Temp/UnityTempFile-0d9b75d9eeadf43c08b9f5d87ace88ef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0f256df99115741f997d0ef5e470cd3b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-0f256df99115741f997d0ef5e470cd3b
+    projectPath: Temp/UnityTempFile-0f256df99115741f997d0ef5e470cd3b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-13d1e52fb6bb4493fb4da21cf09eaf4f
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-13d1e52fb6bb4493fb4da21cf09eaf4f
+    projectPath: Temp/UnityTempFile-13d1e52fb6bb4493fb4da21cf09eaf4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1567ce581e5ac4e79868f314fa890159
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-1567ce581e5ac4e79868f314fa890159
+    projectPath: Temp/UnityTempFile-1567ce581e5ac4e79868f314fa890159
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-175405ab03ee1483484ae09b13eb43f8
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-175405ab03ee1483484ae09b13eb43f8
+    projectPath: Temp/UnityTempFile-175405ab03ee1483484ae09b13eb43f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-19b942a95e7d04b9a9b49ffcbbb777ab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-19b942a95e7d04b9a9b49ffcbbb777ab
+    projectPath: Temp/UnityTempFile-19b942a95e7d04b9a9b49ffcbbb777ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1b7c843ec21e34367b578086b98d8d26
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-1b7c843ec21e34367b578086b98d8d26
+    projectPath: Temp/UnityTempFile-1b7c843ec21e34367b578086b98d8d26
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1e78b52d9e2ad46d3b54b66939d2c9ff
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-1e78b52d9e2ad46d3b54b66939d2c9ff
+    projectPath: Temp/UnityTempFile-1e78b52d9e2ad46d3b54b66939d2c9ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-208848fad33cd4b6782792e366a3c329
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-208848fad33cd4b6782792e366a3c329
+    projectPath: Temp/UnityTempFile-208848fad33cd4b6782792e366a3c329
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-2094fd55c29004b73915e9d6d034fab9
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-2094fd55c29004b73915e9d6d034fab9
+    projectPath: Temp/UnityTempFile-2094fd55c29004b73915e9d6d034fab9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-21ffd787409e74b2ea6b2bb985fd3881
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-21ffd787409e74b2ea6b2bb985fd3881
+    projectPath: Temp/UnityTempFile-21ffd787409e74b2ea6b2bb985fd3881
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-22329ac4938b4461c9ae8e3368787af0
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-22329ac4938b4461c9ae8e3368787af0
+    projectPath: Temp/UnityTempFile-22329ac4938b4461c9ae8e3368787af0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-229d861aa22624fb9a81c715445b4e51
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-229d861aa22624fb9a81c715445b4e51
+    projectPath: Temp/UnityTempFile-229d861aa22624fb9a81c715445b4e51
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-2508a7b689a16402dac2d3b62748b23c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-2508a7b689a16402dac2d3b62748b23c
+    projectPath: Temp/UnityTempFile-2508a7b689a16402dac2d3b62748b23c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-27fea021144b740ddba098ee6cf241d8
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-27fea021144b740ddba098ee6cf241d8
+    projectPath: Temp/UnityTempFile-27fea021144b740ddba098ee6cf241d8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-2b674b913c1644113a56f6ff240d8b65
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-2b674b913c1644113a56f6ff240d8b65
+    projectPath: Temp/UnityTempFile-2b674b913c1644113a56f6ff240d8b65
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-323f805c4b86c40c2bde16cc5640f51d
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-323f805c4b86c40c2bde16cc5640f51d
+    projectPath: Temp/UnityTempFile-323f805c4b86c40c2bde16cc5640f51d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3448dab4b314e464e851ee4496aa5b66
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-3448dab4b314e464e851ee4496aa5b66
+    projectPath: Temp/UnityTempFile-3448dab4b314e464e851ee4496aa5b66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-369f1aac7c0ba4a71b18831f631f553e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-369f1aac7c0ba4a71b18831f631f553e
+    projectPath: Temp/UnityTempFile-369f1aac7c0ba4a71b18831f631f553e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3cc86754bcdcb4b919a3c6ccc71f7738
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-3cc86754bcdcb4b919a3c6ccc71f7738
+    projectPath: Temp/UnityTempFile-3cc86754bcdcb4b919a3c6ccc71f7738
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3d21e0c4435694996b7631eee130a078
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-3d21e0c4435694996b7631eee130a078
+    projectPath: Temp/UnityTempFile-3d21e0c4435694996b7631eee130a078
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3ee96701b08554d5d9e313c68f3b5902
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-3ee96701b08554d5d9e313c68f3b5902
+    projectPath: Temp/UnityTempFile-3ee96701b08554d5d9e313c68f3b5902
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-406c69d25759c4daf87f599171975755
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-406c69d25759c4daf87f599171975755
+    projectPath: Temp/UnityTempFile-406c69d25759c4daf87f599171975755
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-41c8111e6b8f5427cb428fcda9077883
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-41c8111e6b8f5427cb428fcda9077883
+    projectPath: Temp/UnityTempFile-41c8111e6b8f5427cb428fcda9077883
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-421a8e289455b442788941cc9e98dc13
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-421a8e289455b442788941cc9e98dc13
+    projectPath: Temp/UnityTempFile-421a8e289455b442788941cc9e98dc13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-463d5fac793874204826e2aba8b175bc
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-463d5fac793874204826e2aba8b175bc
+    projectPath: Temp/UnityTempFile-463d5fac793874204826e2aba8b175bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4bf51593903c04a078837438356c0353
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-4bf51593903c04a078837438356c0353
+    projectPath: Temp/UnityTempFile-4bf51593903c04a078837438356c0353
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4d9f9e46ea89549eebc41f1e3df13f60
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-4d9f9e46ea89549eebc41f1e3df13f60
+    projectPath: Temp/UnityTempFile-4d9f9e46ea89549eebc41f1e3df13f60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-513de219f60df4461a3dd7b52cad0478
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-513de219f60df4461a3dd7b52cad0478
+    projectPath: Temp/UnityTempFile-513de219f60df4461a3dd7b52cad0478
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5160d345e9db145ca8c5731271142c6b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-5160d345e9db145ca8c5731271142c6b
+    projectPath: Temp/UnityTempFile-5160d345e9db145ca8c5731271142c6b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-51a0060c6374f4ff19a792ff57b2c189
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-51a0060c6374f4ff19a792ff57b2c189
+    projectPath: Temp/UnityTempFile-51a0060c6374f4ff19a792ff57b2c189
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5301aa875b09a49c1b847f03b649878f
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-5301aa875b09a49c1b847f03b649878f
+    projectPath: Temp/UnityTempFile-5301aa875b09a49c1b847f03b649878f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-543e82cf7dddd4ad9b2b14e96178f627
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-543e82cf7dddd4ad9b2b14e96178f627
+    projectPath: Temp/UnityTempFile-543e82cf7dddd4ad9b2b14e96178f627
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5e1db07262abf413890b90292bba1b0b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-5e1db07262abf413890b90292bba1b0b
+    projectPath: Temp/UnityTempFile-5e1db07262abf413890b90292bba1b0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6238953923118435392b0d0e231432ea
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-6238953923118435392b0d0e231432ea
+    projectPath: Temp/UnityTempFile-6238953923118435392b0d0e231432ea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-645aa1aaedf324a538a07a38b09cf3ab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-645aa1aaedf324a538a07a38b09cf3ab
+    projectPath: Temp/UnityTempFile-645aa1aaedf324a538a07a38b09cf3ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-671392c60ab93454aa8c21d06fc55bbf
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-671392c60ab93454aa8c21d06fc55bbf
+    projectPath: Temp/UnityTempFile-671392c60ab93454aa8c21d06fc55bbf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6a40f55e6e4074784857159131d65f7d
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-6a40f55e6e4074784857159131d65f7d
+    projectPath: Temp/UnityTempFile-6a40f55e6e4074784857159131d65f7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6acc0e98ee490466291e19166ac9ed32
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-6acc0e98ee490466291e19166ac9ed32
+    projectPath: Temp/UnityTempFile-6acc0e98ee490466291e19166ac9ed32
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6c2e4767978c643d487d91b79db5e813
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-6c2e4767978c643d487d91b79db5e813
+    projectPath: Temp/UnityTempFile-6c2e4767978c643d487d91b79db5e813
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-71374380a5c344fafaf9d50dea6be740
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-71374380a5c344fafaf9d50dea6be740
+    projectPath: Temp/UnityTempFile-71374380a5c344fafaf9d50dea6be740
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-71de06ed938d443839dbd1a4e2beac8e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-71de06ed938d443839dbd1a4e2beac8e
+    projectPath: Temp/UnityTempFile-71de06ed938d443839dbd1a4e2beac8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-748c1d3fd841e4eea879558ad011f308
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-748c1d3fd841e4eea879558ad011f308
+    projectPath: Temp/UnityTempFile-748c1d3fd841e4eea879558ad011f308
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7577eb2fb3ffe46cb9950a96d7b653c1
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-7577eb2fb3ffe46cb9950a96d7b653c1
+    projectPath: Temp/UnityTempFile-7577eb2fb3ffe46cb9950a96d7b653c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-779bc729d5e5746a8a57a3be873c9a22
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-779bc729d5e5746a8a57a3be873c9a22
+    projectPath: Temp/UnityTempFile-779bc729d5e5746a8a57a3be873c9a22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7ac4d6d254aea4b0484735993134233f
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-7ac4d6d254aea4b0484735993134233f
+    projectPath: Temp/UnityTempFile-7ac4d6d254aea4b0484735993134233f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7c0c1d4e872be4bed810433c50517dc8
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-7c0c1d4e872be4bed810433c50517dc8
+    projectPath: Temp/UnityTempFile-7c0c1d4e872be4bed810433c50517dc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7cfa9796d90fb4d66847a451de42f8d6
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-7cfa9796d90fb4d66847a451de42f8d6
+    projectPath: Temp/UnityTempFile-7cfa9796d90fb4d66847a451de42f8d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7e7fe2ed43b63414baa095a9317b321c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-7e7fe2ed43b63414baa095a9317b321c
+    projectPath: Temp/UnityTempFile-7e7fe2ed43b63414baa095a9317b321c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-80999ab0a5f5d44b99abaea219b34f16
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-80999ab0a5f5d44b99abaea219b34f16
+    projectPath: Temp/UnityTempFile-80999ab0a5f5d44b99abaea219b34f16
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-815533376e0e5482ba37238c3b8bcb89
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-815533376e0e5482ba37238c3b8bcb89
+    projectPath: Temp/UnityTempFile-815533376e0e5482ba37238c3b8bcb89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-82bed61b4dd5040b9baaf58a5b131e9f
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-82bed61b4dd5040b9baaf58a5b131e9f
+    projectPath: Temp/UnityTempFile-82bed61b4dd5040b9baaf58a5b131e9f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-87c5534a78a1047f4959977602d58c0b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-87c5534a78a1047f4959977602d58c0b
+    projectPath: Temp/UnityTempFile-87c5534a78a1047f4959977602d58c0b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8938f8457672041759e995548ff00558
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-8938f8457672041759e995548ff00558
+    projectPath: Temp/UnityTempFile-8938f8457672041759e995548ff00558
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8cca2aa865f39459f97110cb0df48fc4
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-8cca2aa865f39459f97110cb0df48fc4
+    projectPath: Temp/UnityTempFile-8cca2aa865f39459f97110cb0df48fc4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8f4ce4e43461e4e2188ce80104044b18
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-8f4ce4e43461e4e2188ce80104044b18
+    projectPath: Temp/UnityTempFile-8f4ce4e43461e4e2188ce80104044b18
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-930972376197c4bfe8847c2a9605d9f4
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-930972376197c4bfe8847c2a9605d9f4
+    projectPath: Temp/UnityTempFile-930972376197c4bfe8847c2a9605d9f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-97211199d3e274370994b3eef1a8bda9
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-97211199d3e274370994b3eef1a8bda9
+    projectPath: Temp/UnityTempFile-97211199d3e274370994b3eef1a8bda9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-97595e2b74e2d4afe944375be2cdf9c7
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-97595e2b74e2d4afe944375be2cdf9c7
+    projectPath: Temp/UnityTempFile-97595e2b74e2d4afe944375be2cdf9c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9805710a366e042ffa67c14884ec7eab
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-9805710a366e042ffa67c14884ec7eab
+    projectPath: Temp/UnityTempFile-9805710a366e042ffa67c14884ec7eab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9c047774470ca4fb6b5a94541c6b2d77
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-9c047774470ca4fb6b5a94541c6b2d77
+    projectPath: Temp/UnityTempFile-9c047774470ca4fb6b5a94541c6b2d77
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9c6927e1b42bb45799725adf561fd4c3
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-9c6927e1b42bb45799725adf561fd4c3
+    projectPath: Temp/UnityTempFile-9c6927e1b42bb45799725adf561fd4c3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9dc0e2fc34e754b5e999930745de2d21
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-9dc0e2fc34e754b5e999930745de2d21
+    projectPath: Temp/UnityTempFile-9dc0e2fc34e754b5e999930745de2d21
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9ef895d00721c4a20a595894d5fb8ac0
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-9ef895d00721c4a20a595894d5fb8ac0
+    projectPath: Temp/UnityTempFile-9ef895d00721c4a20a595894d5fb8ac0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a692829b730ea4372b7153fa96521184
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-a692829b730ea4372b7153fa96521184
+    projectPath: Temp/UnityTempFile-a692829b730ea4372b7153fa96521184
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a88f38458e1f14f89b1e1f0610626c03
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-a88f38458e1f14f89b1e1f0610626c03
+    projectPath: Temp/UnityTempFile-a88f38458e1f14f89b1e1f0610626c03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-abc0f247b2b964859ae95931b6aa636c
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-abc0f247b2b964859ae95931b6aa636c
+    projectPath: Temp/UnityTempFile-abc0f247b2b964859ae95931b6aa636c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-af8c64e80a22e48f4a7fd4880a7b5fa0
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-af8c64e80a22e48f4a7fd4880a7b5fa0
+    projectPath: Temp/UnityTempFile-af8c64e80a22e48f4a7fd4880a7b5fa0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b2f6bec1894384c96b1457c6103e3f71
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-b2f6bec1894384c96b1457c6103e3f71
+    projectPath: Temp/UnityTempFile-b2f6bec1894384c96b1457c6103e3f71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b8420ae41f138481e9e212e9fe110c9d
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-b8420ae41f138481e9e212e9fe110c9d
+    projectPath: Temp/UnityTempFile-b8420ae41f138481e9e212e9fe110c9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c07f351ff767f4a65bef11529b2cdb7e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-c07f351ff767f4a65bef11529b2cdb7e
+    projectPath: Temp/UnityTempFile-c07f351ff767f4a65bef11529b2cdb7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c1906947fd31b4a8b945b7167b1e7196
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-c1906947fd31b4a8b945b7167b1e7196
+    projectPath: Temp/UnityTempFile-c1906947fd31b4a8b945b7167b1e7196
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c23a1beac6f164dd6bf1e6b2e9950608
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-c23a1beac6f164dd6bf1e6b2e9950608
+    projectPath: Temp/UnityTempFile-c23a1beac6f164dd6bf1e6b2e9950608
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c4ab2a3e07f4f46b89a45c3162b07a27
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-c4ab2a3e07f4f46b89a45c3162b07a27
+    projectPath: Temp/UnityTempFile-c4ab2a3e07f4f46b89a45c3162b07a27
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c4d1f5ddfbbc74469864c7dcb0eeb498
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-c4d1f5ddfbbc74469864c7dcb0eeb498
+    projectPath: Temp/UnityTempFile-c4d1f5ddfbbc74469864c7dcb0eeb498
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-cf1a2b440e2f94c938f58b61abbb8b3b
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-cf1a2b440e2f94c938f58b61abbb8b3b
+    projectPath: Temp/UnityTempFile-cf1a2b440e2f94c938f58b61abbb8b3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-cfe9bac4133c14da4a8db5ed0ceb2615
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-cfe9bac4133c14da4a8db5ed0ceb2615
+    projectPath: Temp/UnityTempFile-cfe9bac4133c14da4a8db5ed0ceb2615
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d064ce6b6254d48b6b2c939ce65a16c8
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-d064ce6b6254d48b6b2c939ce65a16c8
+    projectPath: Temp/UnityTempFile-d064ce6b6254d48b6b2c939ce65a16c8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-d5910c78d814941cabcb30ac5c596c7e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-d5910c78d814941cabcb30ac5c596c7e
+    projectPath: Temp/UnityTempFile-d5910c78d814941cabcb30ac5c596c7e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-dd0b5b208134f4b9bb562792b5e3f16a
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-dd0b5b208134f4b9bb562792b5e3f16a
+    projectPath: Temp/UnityTempFile-dd0b5b208134f4b9bb562792b5e3f16a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-dd8cae10249f74b71b7487ba7308a7c1
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-dd8cae10249f74b71b7487ba7308a7c1
+    projectPath: Temp/UnityTempFile-dd8cae10249f74b71b7487ba7308a7c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-dea486bc7a97a481a9dd6dd84a1c61ff
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-dea486bc7a97a481a9dd6dd84a1c61ff
+    projectPath: Temp/UnityTempFile-dea486bc7a97a481a9dd6dd84a1c61ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e1cda6372c0ee40edaa6f4e55dd9ba74
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-e1cda6372c0ee40edaa6f4e55dd9ba74
+    projectPath: Temp/UnityTempFile-e1cda6372c0ee40edaa6f4e55dd9ba74
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e62b40ab7c45b413a8df9db84196b795
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-e62b40ab7c45b413a8df9db84196b795
+    projectPath: Temp/UnityTempFile-e62b40ab7c45b413a8df9db84196b795
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e826004be5dae413dacf5c5e26c45179
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-e826004be5dae413dacf5c5e26c45179
+    projectPath: Temp/UnityTempFile-e826004be5dae413dacf5c5e26c45179
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ebfc8f9050a5748cebad5951335975b6
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-ebfc8f9050a5748cebad5951335975b6
+    projectPath: Temp/UnityTempFile-ebfc8f9050a5748cebad5951335975b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f22f4585d639b4baf9e7cc51f702040a
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-f22f4585d639b4baf9e7cc51f702040a
+    projectPath: Temp/UnityTempFile-f22f4585d639b4baf9e7cc51f702040a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f60cc07f1268f4f9a8c7ae962a1e332e
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-f60cc07f1268f4f9a8c7ae962a1e332e
+    projectPath: Temp/UnityTempFile-f60cc07f1268f4f9a8c7ae962a1e332e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-fc1efb669a64949588f85d8300c950c3
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-fc1efb669a64949588f85d8300c950c3
+    projectPath: Temp/UnityTempFile-fc1efb669a64949588f85d8300c950c3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-fdc3832b1f13640e4ba7f5d047fe69c1
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/Temp/UnityTempFile-fdc3832b1f13640e4ba7f5d047fe69c1
+    projectPath: Temp/UnityTempFile-fdc3832b1f13640e4ba7f5d047fe69c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UserSettings/EditorUserSettings.asset
+    fullPath: /Users/declanscott/Desktop/MYP_CS/CrowMeadow/UserSettings/EditorUserSettings.asset
+    projectPath: UserSettings/EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

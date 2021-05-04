@@ -29,12 +29,13 @@ public class Bullet : MonoBehaviour
 
         // Raycast Hit Detection
         RaycastHit hit;
-        if(Physics.Raycast(transform.position, transform.forward, out hit, speed))
+        if(Physics.Raycast(transform.position, transform.forward, out hit, speed * 2))
         {
             Vector3 normal = hit.normal;
 
             // Check what the bullet hit
             GameObject impact;
+            Debug.Log(hit.collider.gameObject.name);
             if (hit.collider.gameObject.tag == "Enemy")
             {
                 // Sound
@@ -64,6 +65,12 @@ public class Bullet : MonoBehaviour
                         currentPos.GetComponent<Enemy>().TakeDamage(toTake, transform.position, transform.forward);
                     }
                 }
+            }
+            else if(hit.collider.gameObject.tag == "Player")
+            {
+                FindObjectOfType<PlayerStats>().health -= 10f;
+                Destroy(gameObject);
+                return;
             }
             else
             {

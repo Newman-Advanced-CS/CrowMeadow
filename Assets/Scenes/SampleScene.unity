@@ -486,6 +486,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!64 &82874020
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -572,7 +575,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 52
+      value: 51
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -1006,6 +1009,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1001 &204070887
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1015,7 +1021,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 51
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -1142,6 +1148,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &248493077 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -1178,6 +1187,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &278448285 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8439680360636358261, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -1255,7 +1267,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 47
+      value: 46
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -1387,6 +1399,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &372712840 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8439680360636358261, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -1605,6 +1620,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &468532171 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -1641,6 +1659,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &503279082 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -1696,6 +1717,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1001 &511802084
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1857,6 +1881,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &552618547 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -1893,6 +1920,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &561662296 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8439680360636358261, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -2172,6 +2202,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &623167608
 GameObject:
   m_ObjectHideFlags: 0
@@ -2311,7 +2344,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 40
+      value: 39
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -2419,6 +2452,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &657837933 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -2455,6 +2491,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &664008722 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -2483,7 +2522,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 50
+      value: 49
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -2839,7 +2878,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 39
+      value: 38
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -3124,6 +3163,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &753608902 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8439680360636358261, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -3152,7 +3194,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 38
+      value: 37
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -3322,6 +3364,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &879714065
 GameObject:
   m_ObjectHideFlags: 0
@@ -3519,7 +3564,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 39
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -3801,6 +3846,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!4 &979764249 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -3321919801592875672, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -3842,6 +3890,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &991876664 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -3897,6 +3948,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &994801660 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -3933,6 +3987,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1001 &1004456922
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3942,7 +3999,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 49
+      value: 48
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -4459,6 +4516,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &1088954662
 GameObject:
   m_ObjectHideFlags: 0
@@ -4897,6 +4957,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &1131383661
 GameObject:
   m_ObjectHideFlags: 0
@@ -4982,6 +5045,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1001 &1139188545
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5220,25 +5286,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7536261544965393091, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
---- !u!1 &1162485415 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-  m_PrefabInstance: {fileID: 1644838308}
-  m_PrefabAsset: {fileID: 0}
---- !u!64 &1162485417
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1162485415}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 2612351743713780013, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
 --- !u!4 &1186641719 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -3321919801592875672, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -5280,6 +5327,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &1261321886 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -5652,6 +5702,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!4 &1392574705 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -3321919801592875672, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -5874,47 +5927,14 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!4 &1433508141 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -3321919801592875672, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
   m_PrefabInstance: {fileID: 1582444828}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1451019124 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-  m_PrefabInstance: {fileID: 1644838308}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1451019125 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-  m_PrefabInstance: {fileID: 1644838308}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1451019126
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1451019124}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: baa31d071c93342b58cb43a1f3cf5a6a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Name: Stefano the bot
-  names:
-  - Stefano
-  - xxx_#1gamer_xxx
-  - Homer
-  - Bart
-  - Lisa
-  - Marge
-  - Jacky
-  - Napolean
-  - Pedro
-  - Peter
-  health: 100
-  ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
 --- !u!1 &1453159896 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -5970,6 +5990,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &1483133663 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -5989,50 +6012,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2612351743713780013, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
---- !u!1 &1486951861
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1486951862}
-  - component: {fileID: 1486951863}
-  m_Layer: 0
-  m_Name: Headshot
-  m_TagString: Enemy
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1486951862
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1486951861}
-  m_LocalRotation: {x: -0.000000014901161, y: -3.1996066e-11, z: -2.8408385e-12, w: 1}
-  m_LocalPosition: {x: 0, y: -1.533, z: 0.03}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 2062706805}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &1486951863
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1486951861}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.18, y: 0.23501733, z: 0.26217887}
-  m_Center: {x: -9.597607e-12, y: 1.647424, z: 0.011089379}
 --- !u!1 &1497741789
 GameObject:
   m_ObjectHideFlags: 0
@@ -6208,6 +6187,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1001 &1542535632
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6730,87 +6712,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
---- !u!1001 &1644838308
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1706157131}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_RootOrder
-      value: 46
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.1999999
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1.2
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.1999999
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -58.9
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.29
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3.9
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7723615
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.6351833
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 78.867
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8439680360636358261, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_TagString
-      value: Enemy
-      objectReference: {fileID: 0}
-    - target: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_TagString
-      value: Enemy
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_Name
-      value: army_man (33)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-      propertyPath: m_TagString
-      value: Enemy
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
 --- !u!1 &1663209201 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -6871,6 +6772,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &1685872025 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2997767248785159584, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -6890,25 +6794,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2612351743713780013, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
---- !u!1 &1695566702 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: -8439680360636358261, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-  m_PrefabInstance: {fileID: 1644838308}
-  m_PrefabAsset: {fileID: 0}
---- !u!64 &1695566704
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1695566702}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 7536261544965393091, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
 --- !u!1 &1706157130
 GameObject:
   m_ObjectHideFlags: 0
@@ -6983,7 +6868,6 @@ Transform:
   - {fileID: 992694842}
   - {fileID: 543833840}
   - {fileID: 355663607}
-  - {fileID: 1451019125}
   - {fileID: 986695670}
   - {fileID: 651498203}
   - {fileID: 1720062492}
@@ -7060,6 +6944,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &1727470480
 GameObject:
   m_ObjectHideFlags: 0
@@ -7159,6 +7046,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!4 &1765555113 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -3321919801592875672, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -7782,6 +7672,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1001 &1877228689
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7872,7 +7765,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_RootOrder
-      value: 48
+      value: 47
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
       propertyPath: m_LocalScale.x
@@ -7980,6 +7873,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &1898461188 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8439680360636358261, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -8176,6 +8072,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &1937163818 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8439680360636358261, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -8299,6 +8198,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1001 &1963892487
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8574,6 +8476,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &2035648806
 GameObject:
   m_ObjectHideFlags: 0
@@ -8654,6 +8559,9 @@ MonoBehaviour:
   - Peter
   health: 100
   ragdoll: {fileID: 4757686309173354149, guid: 30fdcdbb1831a44d3a71336e9c667b72, type: 3}
+  cam: {fileID: 0}
+  enemy: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1 &2039993868
 GameObject:
   m_ObjectHideFlags: 0
@@ -8698,11 +8606,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.18, y: 0.23501733, z: 0.26217887}
   m_Center: {x: -9.597607e-12, y: 1.647424, z: 0.011089379}
---- !u!4 &2062706805 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -3321919801592875672, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
-  m_PrefabInstance: {fileID: 1644838308}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2063911080 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8439680360636358261, guid: e3f290203a364bc4ebed49fde6b1c44f, type: 3}
@@ -9321,6 +9224,10 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1862258891215375080, guid: 2609862a9f24041199d047341d7ae4aa, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.75302124
+      objectReference: {fileID: 0}
     - target: {fileID: 1862258891306490990, guid: 2609862a9f24041199d047341d7ae4aa, type: 3}
       propertyPath: m_Name
       value: InitializeCanvas
@@ -9509,6 +9416,10 @@ PrefabInstance:
     - target: {fileID: 8136177856417857029, guid: 62674ffd7d3a946148040de37537c28c, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8251673883381280061, guid: 62674ffd7d3a946148040de37537c28c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 7.500183
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62674ffd7d3a946148040de37537c28c, type: 3}

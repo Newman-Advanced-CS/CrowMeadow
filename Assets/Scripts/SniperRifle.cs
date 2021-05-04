@@ -22,10 +22,11 @@ public class SniperRifle : PlayerGun
         base.Update();
 
         // Update the zoomFOV accoring to the zoom level
-        zoomFov = baseZoomFov - (8.5f*zoomLevel);
+        float zoomFraction = 1f / (float)((float)zoomLevel + 1);
+        zoomFov = zoomFraction * baseZoomFov;
 
         // Alter zoom level with Q
-        if(Input.GetKeyDown(KeyCode.Q) && atSights)
+        if (Input.GetKeyDown(KeyCode.Q) && atSights)
         {
             zoomLevel++;
             if(zoomLevel > 2) { zoomLevel = 0; }

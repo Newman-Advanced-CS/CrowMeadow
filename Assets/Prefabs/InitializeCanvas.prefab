@@ -961,7 +961,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1862258890871348622}
   m_HandleRect: {fileID: 1862258890871348623}
   m_Direction: 0
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -1141,7 +1141,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!114 &1862258891306490988
 MonoBehaviour:
@@ -1205,6 +1205,8 @@ MonoBehaviour:
   secondaryGuns:
   - Data: {fileID: 11400000, guid: de845eb60f56d48f19dfa45443b6cd58, type: 2}
     Gun: {fileID: 891090873924703043, guid: 76ab31f12a9ff4c4ba239a486a26cdc5, type: 3}
+  - Data: {fileID: 11400000, guid: ecc28301495174fcf8e25f3073105aee, type: 2}
+    Gun: {fileID: 6243915834312770246, guid: 402abf14c9f1a404da13079b7c61e862, type: 3}
   primaryView: {fileID: 1862258891616884281}
   secondaryView: {fileID: 1862258891494596615}
 --- !u!1 &1862258891454573846
@@ -2022,7 +2024,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1862258890554273802}
   m_HandleRect: {fileID: 1862258890554273803}
   m_Direction: 0
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:

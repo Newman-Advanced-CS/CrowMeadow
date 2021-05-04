@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2838eca0e72224c4284dd53a111759cb, type: 3}
+  m_Name: AK-47
+  m_EditorClassIdentifier: 
+  GunName: AK-47
+  shootingInterval: 0.12
+  constantFire: 1
+  shotClip: RifleShot
+  accuracyAtHip: 60
+  accuracyAtSights: 80
+  ammoPerMagazine: 30
+  baseRecoilAmount: 0.2
+  damage: 35

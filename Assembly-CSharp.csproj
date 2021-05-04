@@ -57,10 +57,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/AudioManager.cs" />
+    <Compile Include="Assets/Scripts/HealthCrate.cs" />
     <Compile Include="Assets/Scripts/PlayerSwimming.cs" />
     <Compile Include="Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs" />
+    <Compile Include="Assets/Scripts/Tutorial.cs" />
     <Compile Include="Assets/Scripts/MainMenu.cs" />
     <Compile Include="Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs" />
+    <Compile Include="Assets/Scripts/Redundant/BlankEnemy.cs" />
+    <Compile Include="Assets/Scripts/AmmoCrate.cs" />
     <Compile Include="Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs" />
     <Compile Include="Assets/Scripts/Enemy.cs" />
     <Compile Include="Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs" />
@@ -72,13 +76,21 @@
     <Compile Include="Assets/Scripts/WeaponScreen.cs" />
     <Compile Include="Assets/EffectExamples/Shared/Scripts/ParticleCollision.cs" />
     <Compile Include="Assets/EffectExamples/Shared/Scripts/GunShoot.cs" />
+    <Compile Include="Assets/Scripts/SkyboxRotation.cs" />
     <Compile Include="Assets/Scripts/GunManager.cs" />
+    <Compile Include="Assets/Scripts/GameManager.cs" />
+    <Compile Include="Assets/Scripts/Redundant/Noclip.cs" />
     <Compile Include="Assets/Scripts/UIManager.cs" />
     <Compile Include="Assets/Scripts/PlayerStats.cs" />
     <Compile Include="Assets/Scripts/SniperRifle.cs" />
+    <Compile Include="Assets/Scripts/GunObject.cs" />
     <Compile Include="Assets/Scripts/ControlPoint.cs" />
+    <Compile Include="Assets/Scripts/ScriptableObjs/MapListing.cs" />
     <Compile Include="Assets/EffectExamples/Shared/Scripts/GunAim.cs" />
-    <Compile Include="Assets/AllSkyFree/AllSkyFree_Menu.cs" />
+    <Compile Include="Assets/Scripts/floater.cs" />
+    <Compile Include="Assets/Simple Warships/Demo Scene/Rotate.cs" />
+    <Compile Include="Assets/Scripts/Vehicles/VehicleBase.cs" />
+    <Compile Include="Assets/Scripts/Vehicles/Car.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/ThirdPartyNotices.txt" />
@@ -91,6 +103,7 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets/AllSkyFree/AllSkyFree_Readme.txt" />
      <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters 2.txt" />
+     <None Include="Assets/Simple Warships/Demo Scene/ReadMe.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
      <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
@@ -100,6 +113,7 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
      <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
+     <None Include="Assets/Models/M3A1 Scout Car/readme.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />

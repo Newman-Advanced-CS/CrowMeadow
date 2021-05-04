@@ -56,3 +56,11 @@ MonoBehaviour:
     sound: {fileID: 8300000, guid: c989ac45e184747bebc6667522770bb9, type: 3}
   - ID: MainMenu
     sound: {fileID: 8300000, guid: fe6c3f46b129147e897445fd756567bd, type: 3}
+  - ID: Pickup
+    sound: {fileID: 8300000, guid: 1910fa9b46d964ea984aad4e0bffb6de, type: 3}
+  - ID: Com
+    sound: {fileID: 8300000, guid: 8b0478a0e01af40b68c3185a525e35ef, type: 3}
+  - ID: VoiceBlip
+    sound: {fileID: 8300000, guid: cc26554e3fc1c42259c858b94c9f19c3, type: 3}
+  - ID: SMGShot
+    sound: {fileID: 8300000, guid: acebdc7daf313884f83634082d0e5473, type: 3}
